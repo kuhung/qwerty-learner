@@ -29,20 +29,7 @@
 
 ## 📸 在线访问
 
-**首选部署**: <https://qwerty.kaiyi.cool/>
-GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
-
-镜像仓库:
-[GitCode: RealKai42/qwerty-learner](https://gitcode.com/RealKai42/qwerty-learner/overview)
-[Gitee: KaiyiWing/qwerty-learner](https://gitee.com/KaiyiWing/qwerty-learner)
-<br/>
-<br/>
-
-项目已发布 VSCode 插件版，一键启动、随时开始练习
-[VSCode Plugin Market](https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner)
-[GitHub](https://github.com/Realkai42/qwerty-learner-vscode)
-
-<br />
+https://tap.kuhungio.me/
 
 ## 快速部署
 
@@ -54,8 +41,6 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 1. 更新 `Vercel Build & Development Settings` -> `Output Directory`："build"
 2. Click Deploy Button
-
-<br />
 
 ## ✨ 设计思想
 
@@ -83,8 +68,8 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 ### 词库
 
 内置了常用的 CET-4 、CET-6 、GMAT 、GRE 、IELTS 、SAT 、TOEFL 、考研英语、专业四级英语、专业八级英语，也有程序员常见英语单词以及多种编程语言 API 等词库。 尽可能满足大部分用户对单词记忆的需求，也非常欢迎社区贡献更多的词库。
-<br />
-<br />
+`<br />`
+`<br />`
 
 ### 音标显示、发音功能
 
@@ -129,7 +114,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 ## 运行项目
 
-本项目是基于`React`开发的，需要 node 环境来运行。
+本项目是基于 `React`开发的，需要 node 环境来运行。
 
 ### 环境准备
 
@@ -139,17 +124,15 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 > **验证是否已经拥有相关环境**
 >
-> 1. 手动验证  
->    请在命令行下执行以下命令，查看是否有对应版本输出
+> 1. 手动验证请在命令行下执行以下命令，查看是否有对应版本输出
 >
 >    ```sh
 >    node --version
 >    git --version
 >    yarn --version
 >    ```
+> 2. 脚本验证使用我们提供的脚本对所需环境进行验证，如果确实依赖项会自动安装
 >
-> 2. 脚本验证  
->    使用我们提供的脚本对所需环境进行验证，如果确实依赖项会自动安装
 >    - Windows 用户可以直接执行 [pre-check.ps1](scripts/pre-check.ps1) 脚本
 >    - MacOS 用户可以直接执行 [pre-check.sh](scripts/pre-check.sh) 脚本
 
@@ -162,20 +145,20 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 ### 手动安装
 
 1. 在命令行中执行 `git clone https://github.com/RealKai42/qwerty-learner.git` 将项目拉取到本地, 如果不使用 git 可能因为缺少依赖而无法运行
-2. 在命令行中执行 `cd qwerty-learner`，进入项目根目录，执行`yarn install`来下载依赖。
-3. 执行`yarn start`来启动项目，项目默认地址为`http://localhost:5173/`
-4. 在浏览器中打开`http://localhost:5173/`来访问项目。
+2. 在命令行中执行 `cd qwerty-learner`，进入项目根目录，执行 `yarn install`来下载依赖。
+3. 执行 `yarn start`来启动项目，项目默认地址为 `http://localhost:5173/`
+4. 在浏览器中打开 `http://localhost:5173/`来访问项目。
 
 ### 脚本执行
 
 对于 Windows 用户，可以直接执行 [install.ps1](scripts/install.ps1) 脚本，来一键安装依赖并启动项目。
 
-1. 打开 powershell，定位到项目根目录中的`scripts`目录
-2. 在命令行中，执行`.\install.ps1`
+1. 打开 powershell，定位到项目根目录中的 `scripts`目录
+2. 在命令行中，执行 `.\install.ps1`
 3. 等待脚本完成。
 
 > 备注
-> 脚本依赖`winget`来安装 node，仅在 Windows 10 1709（版本 16299）或更高版本上受支持！
+> 脚本依赖 `winget`来安装 node，仅在 Windows 10 1709（版本 16299）或更高版本上受支持！
 
 对于 MacOS 用户，可以直接执行 [install.sh](scripts/install.sh) 脚本来一键安装依赖并启动项目
 
@@ -183,7 +166,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 2. 在命令行中执行 `scripts/install.sh`
 3. 等待脚本完成
 
-> 此脚本依赖于 `homebrew`，请确保自己电脑上可以执行`brew`命令
+> 此脚本依赖于 `homebrew`，请确保自己电脑上可以执行 `brew`命令
 
 ## 🏆 荣誉
 
@@ -241,8 +224,8 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 项目的进展与未来计划在 [Issue](https://github.com/Realkai42/qwerty-learner/issues/42) 中详细介绍，内部也包含对未来功能的意见征询等，如果对 Qwerty Learner 的未来感兴趣，欢迎参与讨论。
 
 如果你也喜欢本软件的设计思想，欢迎提交 pr，非常感谢你对我们的支持！
-<br />
-<br />
+`<br />`
+`<br />`
 
 ## 🏄‍♂️ 贡献指南
 
@@ -285,7 +268,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 [react-code-game](https://github.com/webzhd/react-code-game)
 一个非常酷的开源项目，使用 ts 实现，可以在练习打字的同时练习 js 内置 api，项目中添加代码 api 的想法便来源自此项目。
-<br/><br/>
+`<br/><br/>`
 
 ### 开源项目
 
@@ -294,7 +277,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 [Tailwindcss](https://tailwindcss.com/docs)
 如果没有 tailwind，这个项目还有再拖一阵子，tailwind 的设计思路解决了 css 入门选手对写复杂 css 的恐惧，让新手以一个非常舒适的方式去设计 UI。
-<br/><br/>
+`<br/><br/>`
 
 ### 数据来源
 
@@ -303,7 +286,7 @@ GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 语音数据来源于[有道词典](https://www.youdao.com/)开放 API，感谢有道的贡献让我们这种小项目也可以用上非常专业的发音资源，感谢有道团队以及考神团队为中国教育与中外交流做出的重要贡献。
 
 JS API 来自于[react-code-game](https://github.com/webzhd/react-code-game) ，感谢项目对 JS API 的爬取与预处理。
-<br/><br/>
+`<br/><br/>`
 
 ### 项目 Icon
 

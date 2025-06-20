@@ -32,7 +32,7 @@ export type WordWithIndex = Word & {
   index: number
 }
 
-export type InfoPanelType = 'donate' | 'vsc' | 'community' | 'redBook'
+export type InfoPanelType = never
 
 export type InfoPanelState = {
   [key in InfoPanelType]: boolean

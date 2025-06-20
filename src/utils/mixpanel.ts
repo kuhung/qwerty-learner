@@ -55,29 +55,10 @@ export function recordErrorBookAction(type: errorBookType) {
   mixpanel.track('error-book', props)
 }
 
-export type donateCardInfo = {
-  type: 'donate' | 'dismiss'
-  chapterNumber: number
-  wordNumber: number
-  sumWrongCount: number
-  dayFromFirstWord: number
-  dayFromQwerty: number
-  amount: number
-}
-
-export function reportDonateCard(info: donateCardInfo) {
-  const props = {
-    ...info,
-  }
-
-  mixpanel.track('donate-card', props)
-}
-
 /**
  * mixpanel 单词和章节统计事件
  */
 export type ModeInfo = {
-  modeDictation: boolean
   modeDark: boolean
   modeShuffle: boolean
 
@@ -127,7 +108,6 @@ export function useMixPanelWordLogUploader(typingState: TypingState) {
         order: typingState.chapterData.index + 1,
         chapter: (currentChapter + 1).toString(),
         wordlist: dictName,
-        modeDictation: !typingState.isWordVisible,
         modeDark: isDarkMode,
         modeShuffle: randomConfig.isOpen,
         enabledKeyboardSound: keySoundsConfig.isOpen,
@@ -172,7 +152,6 @@ export function useMixPanelChapterLogUploader(typingState: TypingState) {
       countCorrect: typingState.chapterData.correctCount,
       chapter: (currentChapter + 1).toString(),
       wordlist: dictName,
-      modeDictation: !typingState.isWordVisible,
       modeDark: isDarkMode,
       modeShuffle: randomConfig.isOpen,
       enabledKeyboardSound: keySoundsConfig.isOpen,
@@ -213,14 +192,17 @@ export function recordDataAction({
     wordCount,
     chapterCount,
   }
-
-  mixpanel.track('dataAction', props)
+  mixpanel.track('data', props)
 }
 
 export function getUtcStringForMixpanel() {
   const now = new Date()
-  const isoString = now.toISOString()
-  const utcString = isoString.substring(0, 19).replace('T', ' ')
+  const year = now.getUTCFullYear()
+  const month = (now.getUTCMonth() + 1).toString().padStart(2, '0')
+  const day = now.getUTCDate().toString().padStart(2, '0')
+  const hours = now.getUTCHours().toString().padStart(2, '0')
+  const minutes = now.getUTCMinutes().toString().padStart(2, '0')
+  const seconds = now.getUTCSeconds().toString().padStart(2, '0')
 
-  return utcString
+  return `${year}-${month}-${day}T${hours}:${minutes}:${seconds}Z`
 }

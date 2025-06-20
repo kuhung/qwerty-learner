@@ -38,8 +38,8 @@ export default function DictRequest() {
             <br />
             <br />
             如果您没有相关的编程基础，可以将您的字典需求发送邮件到{' '}
-            <a href="mailto:me@kaiyi.cool" className="px-2 text-blue-500" aria-label="发送邮件到 me@kaiyi.cool">
-              me@kaiyi.cool
+            <a href="mailto:hi@kuhung.me" className="px-2 text-blue-500" aria-label="发送邮件到 hi@kuhung.me">
+              hi@kuhung.me
             </a>
             ，或者在网页底部添加我们的用户社群进行反馈。
           </p>

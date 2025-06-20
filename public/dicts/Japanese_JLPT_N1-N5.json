@@ -1,0 +1,3985 @@
+[
+  {
+    "name": "atteno",
+    "trans": [
+      "〜があるから・・・が成り立つ\n＝〜がなかったら、・・・が成り立たない"
+    ],
+    "notation": "あっての"
+  },
+  {
+    "name": "ikanda",
+    "trans": [
+      "〜によっては / 〜次第で / 〜かどうかで"
+    ],
+    "notation": "いかんだ"
+  },
+  {
+    "name": "ikandeha",
+    "trans": [
+      "〜によっては / 〜次第で / 〜かどうかで"
+    ],
+    "notation": "いかんでは"
+  },
+  {
+    "name": "ikanniyotteha",
+    "trans": [
+      "〜によっては / 〜次第で / 〜かどうかで"
+    ],
+    "notation": "いかんによっては"
+  },
+  {
+    "name": "ikanni kakawa razu",
+    "trans": [
+      "〜かどうか関係なく\n前件の事柄がどうであれ、それに関係なく後ろの事柄が成立することを表す。"
+    ],
+    "notation": "いかんに関わ(かかわ)らず"
+  },
+  {
+    "name": "ikanniyorazu",
+    "trans": [
+      "〜かどうか関係なく\n前件の事柄がどうであれ、それに関係なく後ろの事柄が成立することを表す。"
+    ],
+    "notation": "いかんによらず"
+  },
+  {
+    "name": "ikanwo towa zu",
+    "trans": [
+      "〜かどうか関係なく\n前件の事柄がどうであれ、それに関係なく後ろの事柄が成立することを表す。"
+    ],
+    "notation": "いかんを問わ(とわ)ず"
+  },
+  {
+    "name": "katagata",
+    "trans": [
+      "〜のついでに / 〜も兼ねて"
+    ],
+    "notation": "かたがた"
+  },
+  {
+    "name": "katawara",
+    "trans": [
+      "〜一方で、別に〜\n仕事や研究などの社会的活動をしながら、別のこともしていることを表す文型。\n２つの活動は異なる時間帯で行われ、かつ「ながら」に比べ長期間続けている活動に対して使われる。また、習慣的な行為に用いられることが多い。\n[英訳]\nwhile / besides"
+    ],
+    "notation": "かたわら"
+  },
+  {
+    "name": "gatera",
+    "trans": [
+      "〜を兼ねて / 〜のついでに\n後件には「行く」や「散歩する」のように移動に関係する動詞がよく使われる。「ついで」よりも少し硬い表現である。\n[英訳]\nto take the opportunity"
+    ],
+    "notation": "がてら"
+  },
+  {
+    "name": "kato omoi kiya",
+    "trans": [
+      "〜と思ったが、実際は・・・"
+    ],
+    "notation": "かと思い(おもい)きや"
+  },
+  {
+    "name": "ga hayai ka",
+    "trans": [
+      "〜するとすぐに\n[英訳]\nno sooner than"
+    ],
+    "notation": "が早い(はやい)か"
+  },
+  {
+    "name": "karaaru",
+    "trans": [
+      "〜か、それ以上の・・・\n数量や程度が大きいことを強調する言い方。"
+    ],
+    "notation": "からある"
+  },
+  {
+    "name": "karasuru",
+    "trans": [
+      "〜か、それ以上の・・・\n数量や程度が大きいことを強調する言い方。"
+    ],
+    "notation": "からする"
+  },
+  {
+    "name": "karano",
+    "trans": [
+      "〜か、それ以上の・・・\n数量や程度が大きいことを強調する言い方。"
+    ],
+    "notation": "からの"
+  },
+  {
+    "name": "kare",
+    "trans": [
+      "程度に差はあっても〜だ。\n[英訳]\nsooner or later /  more or less"
+    ],
+    "notation": "かれ"
+  },
+  {
+    "name": "kitteno",
+    "trans": [
+      "〜の中で一番の\n組織や地域、グループの中で最も優秀なものや、代表するものを言いたい時に使う。"
+    ],
+    "notation": "きっての"
+  },
+  {
+    "name": "kiraigaaru",
+    "trans": [
+      "〜の傾向がある\nよくない傾向について言う時に使われる。自然現象に使うことはできない。書き言葉的で話す時にはほとんど使わない。\n❌例：今の時期は雨が降りやすいきらいがある。"
+    ],
+    "notation": "きらいがある"
+  },
+  {
+    "name": "kiwama ru",
+    "trans": [
+      "非常に〜だ / この上なく〜だ\n程度が非常に高いことを表す。"
+    ],
+    "notation": "極ま(きわま)る"
+  },
+  {
+    "name": "kiwamarinai",
+    "trans": [
+      "非常に〜だ / この上なく〜だ\n程度が非常に高いことを表す。"
+    ],
+    "notation": "極まりない(きわまりない)"
+  },
+  {
+    "name": "gotoki",
+    "trans": [
+      "〜ように\n「ごとき」が人を表す名詞と接続した場合、相手を軽視した表現になる。また、自分について言う場合は謙遜の意味を持つ。\n[英訳]\nlike"
+    ],
+    "notation": "ごとき"
+  },
+  {
+    "name": "gotoku",
+    "trans": [
+      "〜ように\n「ごとき」が人を表す名詞と接続した場合、相手を軽視した表現になる。また、自分について言う場合は謙遜の意味を持つ。\n[英訳]\nlike"
+    ],
+    "notation": "ごとく"
+  },
+  {
+    "name": "gotoshi",
+    "trans": [
+      "〜ように\n「ごとき」が人を表す名詞と接続した場合、相手を軽視した表現になる。また、自分について言う場合は謙遜の意味を持つ。\n[英訳]\nlike"
+    ],
+    "notation": "ごとし"
+  },
+  {
+    "name": "kototote",
+    "trans": [
+      "〜だから / 〜なので\n謝罪の理由を表す時に使われる。"
+    ],
+    "notation": "こととて"
+  },
+  {
+    "name": "shimatsu da",
+    "trans": [
+      "〜という結果だ\n色々と経過を経て、最後には悪い結果になったと言いたい時に使う。\n[英訳]\nend up"
+    ],
+    "notation": "始末(しまつ)だ"
+  },
+  {
+    "name": "zukume",
+    "trans": [
+      "〜が多い / 〜ばかりだ"
+    ],
+    "notation": "ずくめ"
+  },
+  {
+    "name": "zunihaokanai",
+    "trans": [
+      "①必ず〜する （強い決意を表す）\n②自然に〜してしまう"
+    ],
+    "notation": "ずにはおかない"
+  },
+  {
+    "name": "naidehaokanai",
+    "trans": [
+      "①必ず〜する （強い決意を表す）\n②自然に〜してしまう"
+    ],
+    "notation": "ないではおかない"
+  },
+  {
+    "name": "zunihasumanai",
+    "trans": [
+      "〜ないでは許されない / 必ず〜しなければならない\nその場の状況や社会的常識などを考慮して、「〜しなければならない」と言いたい時に使う。"
+    ],
+    "notation": "ずにはすまない"
+  },
+  {
+    "name": "naidehasumanai",
+    "trans": [
+      "〜ないでは許されない / 必ず〜しなければならない\nその場の状況や社会的常識などを考慮して、「〜しなければならない」と言いたい時に使う。"
+    ],
+    "notation": "ないではすまない"
+  },
+  {
+    "name": "jutsu ganai",
+    "trans": [
+      "〜する方法がない / 〜することができない"
+    ],
+    "notation": "術(じゅつ)がない"
+  },
+  {
+    "name": "sura",
+    "trans": [
+      "〜も / 〜さえ\n[英訳]\neven"
+    ],
+    "notation": "すら"
+  },
+  {
+    "name": "sobakara",
+    "trans": [
+      "〜しても、すぐに・・・"
+    ],
+    "notation": "そばから"
+  },
+  {
+    "name": "tada",
+    "trans": [
+      "ただ〜だけ\nそれ以外にはないと限定して言う表現。"
+    ],
+    "notation": "ただ"
+  },
+  {
+    "name": "nomi",
+    "trans": [
+      "ただ〜だけ\nそれ以外にはないと限定して言う表現。"
+    ],
+    "notation": "のみ"
+  },
+  {
+    "name": "tatameshiganai",
+    "trans": [
+      "\"〜という前例がない / 〜ということは一度も見たり・聞いたりしたことがない\"\n話し手の不満や驚きを表す。"
+    ],
+    "notation": "たためしがない"
+  },
+  {
+    "name": "tatokorode",
+    "trans": [
+      "いくら〜しても\n前件に来ることをいくら〜しても、期待する結果が得られないことを表す。"
+    ],
+    "notation": "たところで"
+  },
+  {
+    "name": "dani",
+    "trans": [
+      "〜さえ / 〜すら / 〜するだけでも\n基本的には否定形と一緒に「〜だに〜ない」の形で使われることが多い。"
+    ],
+    "notation": "だに"
+  },
+  {
+    "name": "dano",
+    "trans": [
+      "〜や〜など\n例を複数挙げて言う時に使う。\n[英訳]\nand,  and so forth"
+    ],
+    "notation": "だの"
+  },
+  {
+    "name": "ta hazumi ni",
+    "trans": [
+      "〜したことで、つい・・・\nある事柄がきっかけとなって、「つい」、「うっかり」別の事柄が起こることを表す。"
+    ],
+    "notation": "た弾み(はずみ)に"
+  },
+  {
+    "name": "ta hyoushi ni",
+    "trans": [
+      "〜したことで、つい・・・\nある事柄がきっかけとなって、「つい」、「うっかり」別の事柄が起こることを表す。"
+    ],
+    "notation": "た拍子(ひょうし)に"
+  },
+  {
+    "name": "ta fun dake",
+    "trans": [
+      "前件の行為の程度や時間が、後件にも影響すること述べる表現。"
+    ],
+    "notation": "た分(ふん)だけ"
+  },
+  {
+    "name": "tamadeda",
+    "trans": [
+      "〜しただけのことだ\n「特別な意図はなく、単に〜しただけだ」と言いたい時に使う。"
+    ],
+    "notation": "たまでだ"
+  },
+  {
+    "name": "tamadenokotoda",
+    "trans": [
+      "〜しただけのことだ\n「特別な意図はなく、単に〜しただけだ」と言いたい時に使う。"
+    ],
+    "notation": "たまでのことだ"
+  },
+  {
+    "name": "tara saigo",
+    "trans": [
+      "もし〜のようなことをしたら、（全てがダメになる）。"
+    ],
+    "notation": "たら最後(さいご)"
+  },
+  {
+    "name": "taga saigo",
+    "trans": [
+      "もし〜のようなことをしたら、（全てがダメになる）。"
+    ],
+    "notation": "たが最後(さいご)"
+  },
+  {
+    "name": "tara",
+    "trans": [
+      "〜の場合は、当然・・・すべきだ / 〜の場合は、必ず・・・という結果になる"
+    ],
+    "notation": "たら"
+  },
+  {
+    "name": "tade",
+    "trans": [
+      "〜の場合は、当然・・・すべきだ / 〜の場合は、必ず・・・という結果になる"
+    ],
+    "notation": "たで"
+  },
+  {
+    "name": "taritomo",
+    "trans": [
+      "〜も / 〜でも\n前件で最小単位の語を示して、それさえも〜ないと否定する言い方。"
+    ],
+    "notation": "たりとも"
+  },
+  {
+    "name": "tarumono",
+    "trans": [
+      "〜の立場にあるのだから、（当然・・・）"
+    ],
+    "notation": "たるもの"
+  },
+  {
+    "name": "tsukusu",
+    "trans": [
+      "残らず全部〜する"
+    ],
+    "notation": "尽くす(つくす)"
+  },
+  {
+    "name": "tsu",
+    "trans": [
+      "〜たり〜たり\n「〜たり〜たり」の慣用的な表現で、使用場面は限られる。同一場面、同じ時間帯の中で起こっていることを表すので、次のようなのは使えない。\n誤用例：明日は勉強しつ、本を読みつするつもりだ。\n[英訳]\nand"
+    ],
+    "notation": "つ"
+  },
+  {
+    "name": "deare",
+    "trans": [
+      "〜でも〜でも・・・だ。\n例を挙げて、「どちらの場合でも・・・だ」と言いたい時に使う。"
+    ],
+    "notation": "であれ"
+  },
+  {
+    "name": "tekaratoiumono",
+    "trans": [
+      "〜てからずっと\nある行動がきっかけとなって、何か大きな変化があったことを述べる表現\n[英訳]\nsince"
+    ],
+    "notation": "てからというもの"
+  },
+  {
+    "name": "dehaarumaishi",
+    "trans": [
+      "〜ではないのだから、当然・・・"
+    ],
+    "notation": "ではあるまいし"
+  },
+  {
+    "name": "demoarumaishi",
+    "trans": [
+      "〜ではないのだから、当然・・・"
+    ],
+    "notation": "でもあるまいし"
+  },
+  {
+    "name": "temae",
+    "trans": [
+      "①〜という立場・状況なので、（・・・するしかない）\n②〜の前なので、\n「〜という状況や立場からなので、・・・するほか選択肢がない」と言いたい時に使う。\n話し手の第三者に対する態度を意識した表現。後件には主観的な文が来ることが多い。"
+    ],
+    "notation": "てまえ"
+  },
+  {
+    "name": "teyamanai",
+    "trans": [
+      "すごく〜ている / 心から〜ている\n話し手の気持ちが強く、ずっと〜している、思っていると言う時に使う。"
+    ],
+    "notation": "てやまない"
+  },
+  {
+    "name": "toareba",
+    "trans": [
+      "〜なら\n前件なら、後件の内容が起こるのはやむ終えない、仕方がないと言いたい時に使う。"
+    ],
+    "notation": "とあれば"
+  },
+  {
+    "name": "toii",
+    "trans": [
+      "〜も〜も / 〜だけでなく〜も\n目立つ点を挙げて、述べる表現で、人や物を評価するときに使われる。"
+    ],
+    "notation": "といい"
+  },
+  {
+    "name": "toiedomo",
+    "trans": [
+      "たとえ〜であっても / いくら〜でも"
+    ],
+    "notation": "といえども"
+  },
+  {
+    "name": "toiumono",
+    "trans": [
+      "〜の間ずっと\n[英訳]\nduring / since"
+    ],
+    "notation": "というもの"
+  },
+  {
+    "name": "tokitara",
+    "trans": [
+      "\"〜について言うと\"\n話し手の不満や非難の気持ちを言う時によく使われる。"
+    ],
+    "notation": "ときたら"
+  },
+  {
+    "name": "tokorowo",
+    "trans": [
+      "〜のに / 〜という状況なのに\n相手の状況を配慮した表現。\n[英訳]\neven though"
+    ],
+    "notation": "ところを"
+  },
+  {
+    "name": "tohaie",
+    "trans": [
+      "〜といっても\n[英訳]\nnevertheless"
+    ],
+    "notation": "とはいえ"
+  },
+  {
+    "name": "tomoarou",
+    "trans": [
+      "〜のような素晴らしい人が\n話し手が高く評価している人やものが、ふさわしくない行動をしたことを表す。"
+    ],
+    "notation": "ともあろう"
+  },
+  {
+    "name": "tomonaku",
+    "trans": [
+      "① 特に意識して〜しようというつもりはなく\n無意識に動作をしていることを表す。\n② 〜についてははっきりないが、・・・\n動作や場所などがはっきりとしないことを表す。"
+    ],
+    "notation": "ともなく"
+  },
+  {
+    "name": "tomonashini",
+    "trans": [
+      "① 特に意識して〜しようというつもりはなく\n無意識に動作をしていることを表す。\n② 〜についてははっきりないが、・・・\n動作や場所などがはっきりとしないことを表す。"
+    ],
+    "notation": "ともなしに"
+  },
+  {
+    "name": "nagara",
+    "trans": [
+      "同じ人が、AとBの２つのことを同時にする。\n[英訳]\nTo do two things simultaneously / to do B while doing A"
+    ],
+    "notation": "ながら"
+  },
+  {
+    "name": "nakushiteha",
+    "trans": [
+      "〜がなければ・・・ない\n前件が成立しなければ、後件が成立しにくいと言いたい時に使う。"
+    ],
+    "notation": "なくしては"
+  },
+  {
+    "name": "nakumonai",
+    "trans": [
+      "場合によっては〜かもしれない / 全く〜ないというわけではない"
+    ],
+    "notation": "なくもない"
+  },
+  {
+    "name": "nashini",
+    "trans": [
+      "\"〜ないで / 〜なく\"\n「AなしにB」で本来ならAをして、Bをするという段階があるのに、AをしないでBが行われることを表す。\n[英訳]\nwithout"
+    ],
+    "notation": "なしに"
+  },
+  {
+    "name": "nashide",
+    "trans": [
+      "\"〜ないで / 〜なく\"\n「AなしにB」で本来ならAをして、Bをするという段階があるのに、AをしないでBが行われることを表す。\n[英訳]\nwithout"
+    ],
+    "notation": "なしで"
+  },
+  {
+    "name": "naradeha",
+    "trans": [
+      "〜特有の / 〜でなければできない\nその特徴が他ではあまり見られない、そのことは他の人ではできないといった意味を表す。"
+    ],
+    "notation": "ならでは"
+  },
+  {
+    "name": "naimademo",
+    "trans": [
+      "〜という程度には達しないが"
+    ],
+    "notation": "ないまでも"
+  },
+  {
+    "name": "nari",
+    "trans": [
+      "〜でもいいし、〜でもいいし、とにかく何か・・・\n〜でもいいし、〜でもいいし、好きなように・・・"
+    ],
+    "notation": "なり"
+  },
+  {
+    "name": "naritomo",
+    "trans": [
+      "わずか〜でも / せめて〜でもいいから\n最低限の条件を取り上げて、希望を行ったり、評価するときに使う。\n[英訳]\nat least / even a little"
+    ],
+    "notation": "なりとも"
+  },
+  {
+    "name": "narini",
+    "trans": [
+      "〜に見合った / 〜にふさわしい程度に"
+    ],
+    "notation": "なりに"
+  },
+  {
+    "name": "niatte",
+    "trans": [
+      "〜（という特別な事態や場所）において / で /に"
+    ],
+    "notation": "にあって"
+  },
+  {
+    "name": "ni itaru",
+    "trans": [
+      "〜になる\n「色々なことがあったが、最終的に結果として〜になった」と言いたい時に使う。"
+    ],
+    "notation": "に至る(いたる)"
+  },
+  {
+    "name": "ni itaru made",
+    "trans": [
+      "〜になる\n「色々なことがあったが、最終的に結果として〜になった」と言いたい時に使う。"
+    ],
+    "notation": "に至る(いたる)まで"
+  },
+  {
+    "name": "ni iwa sereba",
+    "trans": [
+      "〜の意見としては・・・\n[英訳]\nif you ask... / if one may say..."
+    ],
+    "notation": "に言わ(いわ)せれば"
+  },
+  {
+    "name": "nikakatteha",
+    "trans": [
+      "〜が扱うと、全く違う結果になる\n〜の影響力が強く、一般的な見込みとは全く違う結果になることを表す。"
+    ],
+    "notation": "にかかっては"
+  },
+  {
+    "name": "nikakattara",
+    "trans": [
+      "〜が扱うと、全く違う結果になる\n〜の影響力が強く、一般的な見込みとは全く違う結果になることを表す。"
+    ],
+    "notation": "にかかったら"
+  },
+  {
+    "name": "nikakaruto",
+    "trans": [
+      "〜が扱うと、全く違う結果になる\n〜の影響力が強く、一般的な見込みとは全く違う結果になることを表す。"
+    ],
+    "notation": "にかかると"
+  },
+  {
+    "name": "nikakareba",
+    "trans": [
+      "〜が扱うと、全く違う結果になる\n〜の影響力が強く、一般的な見込みとは全く違う結果になることを表す。"
+    ],
+    "notation": "にかかれば"
+  },
+  {
+    "name": "ni kakawa ru",
+    "trans": [
+      "〜に影響する\n「命」や「生死」など重要なものに影響すると言いたい時に使う。"
+    ],
+    "notation": "に関わ(かかわ)る"
+  },
+  {
+    "name": "ni kagitsu takotodehanai",
+    "trans": [
+      "〜だけに言えることじゃない / 〜だけでなく、他にもある"
+    ],
+    "notation": "に限っ(かぎっ)たことではない"
+  },
+  {
+    "name": "nikakotsukete",
+    "trans": [
+      "〜を表向きの理由にして / 〜を口実にして"
+    ],
+    "notation": "にかこつけて"
+  },
+  {
+    "name": "nikatakunai",
+    "trans": [
+      "容易に〜できる / 〜するのは簡単だ"
+    ],
+    "notation": "にかたくない"
+  },
+  {
+    "name": "nikamakete",
+    "trans": [
+      "〜に気をかけて\nあることに忙しかったり、夢中になりすぎて、他のことがおそろかになっていることを表す。"
+    ],
+    "notation": "にかまけて"
+  },
+  {
+    "name": "nishite",
+    "trans": [
+      "〜で / 〜になって\n強調表現で、程度に関して驚きやすごいという気持ちがある。"
+    ],
+    "notation": "にして"
+  },
+  {
+    "name": "ni shinobi nai",
+    "trans": [
+      "我慢できない / 耐えられない / 〜するのに心が痛む"
+    ],
+    "notation": "に忍び(しのび)ない"
+  },
+  {
+    "name": "ni sokushi te",
+    "trans": [
+      "〜とおりに / 〜に従って / 〜を基準に\n前に来る語が基準となるということを表す。"
+    ],
+    "notation": "に即し(そくし)て"
+  },
+  {
+    "name": "ni sokushi te",
+    "trans": [
+      "〜とおりに / 〜に従って / 〜を基準に\n前に来る語が基準となるということを表す。"
+    ],
+    "notation": "に則し(そくし)て"
+  },
+  {
+    "name": "ni kotae ru",
+    "trans": [
+      "〜する価値がある"
+    ],
+    "notation": "に堪え(こたえ)る"
+  },
+  {
+    "name": "ni kotae nai",
+    "trans": [
+      "〜する価値がある"
+    ],
+    "notation": "に堪え(こたえ)ない"
+  },
+  {
+    "name": "ni taru",
+    "trans": [
+      "〜できる / 〜する価値がある"
+    ],
+    "notation": "に足る(たる)"
+  },
+  {
+    "name": "ni sokutsu te",
+    "trans": [
+      "〜を基準に・・・ / 〜に従って・・・\nルールや社会的常識、習慣などを基準にして、・・・すると言いたいときに使う表現"
+    ],
+    "notation": "に則っ(そくっ)て"
+  },
+  {
+    "name": "nihaataranai",
+    "trans": [
+      "① 〜するほど価値や重みがない / 〜する必要がない\n② 〜には該当しない"
+    ],
+    "notation": "にはあたらない"
+  },
+  {
+    "name": "niha oyoba nai",
+    "trans": [
+      "①〜するほどではない / 〜する必要ない\n②〜に勝てるレベルではない。"
+    ],
+    "notation": "には及ば(およば)ない"
+  },
+  {
+    "name": "niha muri gaaru",
+    "trans": [
+      "〜するのは困難である\n達成が困難であること、現実的に実現できないことを述べる表現。"
+    ],
+    "notation": "には無理(むり)がある"
+  },
+  {
+    "name": "nihikikae",
+    "trans": [
+      "～とは反対に  / ～に対して\n「～にひきかえ」は主観的な気持ちが含まれる。\n[英訳]\nin contrast to"
+    ],
+    "notation": "にひきかえ"
+  },
+  {
+    "name": "nimohodogaaru",
+    "trans": [
+      "〜にも限界がある\n相手の行為が限度を超えていて、それを非難する際に使う。"
+    ],
+    "notation": "にもほどがある"
+  },
+  {
+    "name": "nimomashite",
+    "trans": [
+      "〜以上に / 〜もそうだが、それ以上に\n[英訳]\nmore than"
+    ],
+    "notation": "にもまして"
+  },
+  {
+    "name": "ni",
+    "trans": [
+      "大変だけど〜を繰り返して"
+    ],
+    "notation": "に"
+  },
+  {
+    "name": "wo omone te",
+    "trans": [
+      "大変だけど〜を繰り返して"
+    ],
+    "notation": "を重ね(おもね)て"
+  },
+  {
+    "name": "nebanaranai",
+    "trans": [
+      "〜なければならない"
+    ],
+    "notation": "ねばならない"
+  },
+  {
+    "name": "no itari",
+    "trans": [
+      "最高に〜だ。\n程度が極めて高く、最高の状態に達していることを表す。"
+    ],
+    "notation": "の至り(いたり)"
+  },
+  {
+    "name": "no kiwami",
+    "trans": [
+      "最高に〜だ。\n程度が極限であることを表す。"
+    ],
+    "notation": "の極み(きわみ)"
+  },
+  {
+    "name": "noyara",
+    "trans": [
+      "〜のか / 〜のだろうか"
+    ],
+    "notation": "のやら"
+  },
+  {
+    "name": "haoroka",
+    "trans": [
+      "〜は当然として"
+    ],
+    "notation": "はおろか"
+  },
+  {
+    "name": "basoremadeda",
+    "trans": [
+      "〜したら、全てが終わりだ\n〜をしたら全てが無駄になると言いたい時に使う。"
+    ],
+    "notation": "ばそれまでだ"
+  },
+  {
+    "name": "tarasoremadeda",
+    "trans": [
+      "〜したら、全てが終わりだ\n〜をしたら全てが無駄になると言いたい時に使う。"
+    ],
+    "notation": "たらそれまでだ"
+  },
+  {
+    "name": "biru",
+    "trans": [
+      "〜のように感じる"
+    ],
+    "notation": "びる"
+  },
+  {
+    "name": "bekarazu",
+    "trans": [
+      "〜してはいけない\n[英訳]\nmust not"
+    ],
+    "notation": "べからず"
+  },
+  {
+    "name": "beku",
+    "trans": [
+      "〜しようと思って / 〜ために\n目的や強い意志があって〜すると言いたい時に使う。"
+    ],
+    "notation": "べく"
+  },
+  {
+    "name": "hodonokotodehanai",
+    "trans": [
+      "\"大したことではないので、〜する必要はない\"\n程度が低く重要でないことを表す。"
+    ],
+    "notation": "ほどのことではない"
+  },
+  {
+    "name": "majiki",
+    "trans": [
+      "〜してはいけない\n職業や立場を考えると、すべきではない行為や態度について、非難の気持ちを込めて言う時に使う。"
+    ],
+    "notation": "まじき"
+  },
+  {
+    "name": "madeda",
+    "trans": [
+      "他に手段がないので〜するだけだ。"
+    ],
+    "notation": "までだ"
+  },
+  {
+    "name": "madenokotoda",
+    "trans": [
+      "他に手段がないので〜するだけだ。"
+    ],
+    "notation": "までのことだ"
+  },
+  {
+    "name": "mademonai",
+    "trans": [
+      "わざわざ〜する必要はない\n[英訳]\n\"there is no need to do\"\nIt includes the speaker's feeling that this is obvious."
+    ],
+    "notation": "までもない"
+  },
+  {
+    "name": "mademonaku",
+    "trans": [
+      "わざわざ〜する必要はない\n[英訳]\n\"there is no need to do\"\nIt includes the speaker's feeling that this is obvious."
+    ],
+    "notation": "までもなく"
+  },
+  {
+    "name": "mamire",
+    "trans": [
+      "〜がたくさん付いている\n表面に汚いものがたくさん付いていて、汚れている様子を表す。"
+    ],
+    "notation": "まみれ"
+  },
+  {
+    "name": "meku",
+    "trans": [
+      "完全に〜とは言えないが、〜ように感じられる"
+    ],
+    "notation": "めく"
+  },
+  {
+    "name": "mosarukotonagara",
+    "trans": [
+      "〜は当然そうだが、その他にも・・・だ"
+    ],
+    "notation": "もさることながら"
+  },
+  {
+    "name": "mosokosokoni",
+    "trans": [
+      "〜も十分にしないで\n「〜を十分にしない、適当に済ませる」という意味。\n急いでいたり、疲れているなど、何かしら理由があって適当に済ませてしまうこと表す。"
+    ],
+    "notation": "もそこそこに"
+  },
+  {
+    "name": "mo douzen da",
+    "trans": [
+      "〜とほとんど同じだ\n実際とは異なるが、ほとんど同じ状態である、様子であると言いたい時に使う。"
+    ],
+    "notation": "も同然(どうぜん)だ"
+  },
+  {
+    "name": "monowo",
+    "trans": [
+      "〜すれば、そうならかなったのに"
+    ],
+    "notation": "ものを"
+  },
+  {
+    "name": "ya hi ya",
+    "trans": [
+      "〜するとすぐに\n[英訳]\nno sooner than"
+    ],
+    "notation": "や否(ひ)や"
+  },
+  {
+    "name": "yueni",
+    "trans": [
+      "〜のために\n硬い表現で文語的である。接続詞として文頭に使うこともできる。\n[英訳]\non account of"
+    ],
+    "notation": "ゆえに"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "①〜のやりかた\n②〜する様子"
+    ],
+    "notation": "よう"
+  },
+  {
+    "name": "youniyotteha",
+    "trans": [
+      "①〜のやりかた\n②〜する様子"
+    ],
+    "notation": "ようによっては"
+  },
+  {
+    "name": "youga",
+    "trans": [
+      "〜ても関係なく・・・だ。"
+    ],
+    "notation": "ようが"
+  },
+  {
+    "name": "youto",
+    "trans": [
+      "〜ても関係なく・・・だ。"
+    ],
+    "notation": "ようと"
+  },
+  {
+    "name": "younimo",
+    "trans": [
+      "〜しようとしてもできない / 〜したいと思っても（理由があって）できない。"
+    ],
+    "notation": "ようにも"
+  },
+  {
+    "name": "yori",
+    "trans": [
+      "２つの物を比較する表現。\n[英訳]\n\"A is more ~ than B.\"\nAn expression that compares two things."
+    ],
+    "notation": "より"
+  },
+  {
+    "name": "wa",
+    "trans": [
+      "〜し、〜し\n「良くないこと、悪いことが一度に起こって困った」という意味。\n話し手の不快な気持ち、嫌な気持ちを強調して言う時に使う。"
+    ],
+    "notation": "わ"
+  },
+  {
+    "name": "wade",
+    "trans": [
+      "〜し、〜し\n「良くないこと、悪いことが一度に起こって困った」という意味。\n話し手の不快な気持ち、嫌な気持ちを強調して言う時に使う。"
+    ],
+    "notation": "わで"
+  },
+  {
+    "name": "wooite",
+    "trans": [
+      "〜以外にできない"
+    ],
+    "notation": "をおいて"
+  },
+  {
+    "name": "wo oshi te",
+    "trans": [
+      "問題や抵抗があるけれども、それに負けず〜する\n問題や抵抗があるけれども、目的を成し遂げるために、その問題や抵抗に逆らって物事を進めるという意味。"
+    ],
+    "notation": "を押し(おし)て"
+  },
+  {
+    "name": "wo oshi kitsu te",
+    "trans": [
+      "問題や抵抗があるけれども、それに負けず〜する\n問題や抵抗があるけれども、目的を成し遂げるために、その問題や抵抗に逆らって物事を進めるという意味。"
+    ],
+    "notation": "を押し(おし)切っ(きっ)て"
+  },
+  {
+    "name": "wo kaerimi zu",
+    "trans": [
+      "〜を気にしないで / 〜をものともせず"
+    ],
+    "notation": "を顧み(かえりみ)ず"
+  },
+  {
+    "name": "mo kaerimi zu",
+    "trans": [
+      "〜を気にしないで / 〜をものともせず"
+    ],
+    "notation": "も顧み(かえりみ)ず"
+  },
+  {
+    "name": "wo kagiri ni",
+    "trans": [
+      "〜を最後として、（今まで続いていたこと、続けていたことをやめる）"
+    ],
+    "notation": "を限り(かぎり)に"
+  },
+  {
+    "name": "wo kane te",
+    "trans": [
+      "〜という目的と一緒に\n「メインの目的があって、もう１つ別の目的を持たせて〜する」という意味を表す。"
+    ],
+    "notation": "を兼ね(かね)て"
+  },
+  {
+    "name": "wo kawakiri rini",
+    "trans": [
+      "〜を始まりとして、次々に・・・する"
+    ],
+    "notation": "を皮切(かわきり)りに"
+  },
+  {
+    "name": "wo kawakiri ritoshite",
+    "trans": [
+      "〜を始まりとして、次々に・・・する"
+    ],
+    "notation": "を皮切(かわきり)りとして"
+  },
+  {
+    "name": "wo kinji ena i",
+    "trans": [
+      "～という気持ちを抑えることができない"
+    ],
+    "notation": "を禁じ(きんじ)得な(えな)い"
+  },
+  {
+    "name": "wo sakai ni",
+    "trans": [
+      "〜の前後で大きく変化することを表す。"
+    ],
+    "notation": "を境(さかい)に"
+  },
+  {
+    "name": "womotte",
+    "trans": [
+      "〜で / 〜を最後として / 〜を基準に"
+    ],
+    "notation": "をもって"
+  },
+  {
+    "name": "womonotomosezu",
+    "trans": [
+      "〜に負けないで / 〜を恐れないで / 〜を気にしないで"
+    ],
+    "notation": "をものともせず"
+  },
+  {
+    "name": "wo fuma ete",
+    "trans": [
+      "〜を前提として / 〜を考慮に入れて"
+    ],
+    "notation": "を踏ま(ふま)えて"
+  },
+  {
+    "name": "wo hete",
+    "trans": [
+      "〜を経験したあとで / （時間）がたったあとで / 〜を通って\n時間、場所、手段などの経由を表す。"
+    ],
+    "notation": "を経て(へて)"
+  },
+  {
+    "name": "wo yogina kusareru",
+    "trans": [
+      "残念ながら～するしかない。 / しかたなく～しなければならない\n「本当は～したくないが、自分ではどうすることもできない事情があり～しなければならない」と言うときに使う。"
+    ],
+    "notation": "を余儀な(よぎな)くされる"
+  },
+  {
+    "name": "woyosoni",
+    "trans": [
+      "〜を心配しないで / 〜を恐れないで / 〜に関係なく"
+    ],
+    "notation": "をよそに"
+  },
+  {
+    "name": "ngatameni",
+    "trans": [
+      "（目的を達成する）ために"
+    ],
+    "notation": "んがために"
+  },
+  {
+    "name": "nbakarini",
+    "trans": [
+      "ほとんど〜しそうに"
+    ],
+    "notation": "んばかりに"
+  },
+  {
+    "name": "ageku",
+    "trans": [
+      "\"色々〜したけど、最終的に・・・。\"\n色々努力したが、結局ダメだったという残念な気持ちが含まれる。\n[英訳]\n\"ended up\"\nIt includes a sense of disappointment/regret that after all the efforts, it was not possible."
+    ],
+    "notation": "あげく"
+  },
+  {
+    "name": "amari",
+    "trans": [
+      "程度が高くないことを表す文型\n[英訳]\n\"not very\"\nIndicates a degree that’s not very high.\nWhen this is used, the adjective is always used with a negative form."
+    ],
+    "notation": "あまり"
+  },
+  {
+    "name": "amarino",
+    "trans": [
+      "とても〜すぎるので\n程度がかなり高いので、〜という普通ではない結果になるという意味\n[英訳]\n\"because the degree is too hight\""
+    ],
+    "notation": "あまりの"
+  },
+  {
+    "name": "ijou ha",
+    "trans": [
+      "〜なのだから、当然・・・。"
+    ],
+    "notation": "以上(いじょう)は"
+  },
+  {
+    "name": "ippou de",
+    "trans": [
+      "①Xは〜だが、Yは〜（対比）\n②ある面では〜だが、別の面では〜（並列）"
+    ],
+    "notation": "一方(いっぽう)で"
+  },
+  {
+    "name": "irai",
+    "trans": [
+      "〜してから、今までずっと。\n[英訳]\nAll the time since ~ / ever since"
+    ],
+    "notation": "以来(いらい)"
+  },
+  {
+    "name": "uede",
+    "trans": [
+      "〜ために / 〜のに\n[英訳]\nin order to / for"
+    ],
+    "notation": "上で(うえで)"
+  },
+  {
+    "name": "ue ha",
+    "trans": [
+      "〜なのだから、当然・・・。"
+    ],
+    "notation": "上(うえ)は"
+  },
+  {
+    "name": "eru",
+    "trans": [
+      "〜できる / 〜できない\n[英訳]\ncan / cannot"
+    ],
+    "notation": "得る(える)"
+  },
+  {
+    "name": "ena i",
+    "trans": [
+      "〜できる / 〜できない\n[英訳]\ncan / cannot"
+    ],
+    "notation": "得な(えな)い"
+  },
+  {
+    "name": "ori ni",
+    "trans": [
+      "〜ときに / 〜の機会に"
+    ],
+    "notation": "折(おり)に"
+  },
+  {
+    "name": "kaigaatte",
+    "trans": [
+      "①〜の効果があって / 〜のおかげで\n②〜の価値があって\n大変だった、辛かったが〜したことで効果や成果が得られて、いい結果になったと言いたい時に使う。"
+    ],
+    "notation": "かいがあって"
+  },
+  {
+    "name": "kaimonaku",
+    "trans": [
+      "①〜の効果があって / 〜のおかげで\n②〜の価値があって\n大変だった、辛かったが〜したことで効果や成果が得られて、いい結果になったと言いたい時に使う。"
+    ],
+    "notation": "かいもなく"
+  },
+  {
+    "name": "kagiri",
+    "trans": [
+      "～する間はずっと / ～の状態が続く間はずっと"
+    ],
+    "notation": "限り(かぎり)"
+  },
+  {
+    "name": "gatai",
+    "trans": [
+      "〜するのが難しい。\n「能力的にできない」ということには使わない。\n[英訳]\n\"difficult to do\"\n＊Not used to mean something can't be done because of lack of ability.\n[一緒に使われる動詞]\n信じる、許す、理解する、受け入れる、想像するなど"
+    ],
+    "notation": "がたい"
+  },
+  {
+    "name": "kato omou to",
+    "trans": [
+      "〜すると、すぐに\n前の事象が起こった直後に、後の事象が起こる。\n[英訳]\nno sooner than"
+    ],
+    "notation": "かと思う(おもう)と"
+  },
+  {
+    "name": "kato omotta ra",
+    "trans": [
+      "〜すると、すぐに\n前の事象が起こった直後に、後の事象が起こる。\n[英訳]\nno sooner than"
+    ],
+    "notation": "かと思った(おもった)ら"
+  },
+  {
+    "name": "ka",
+    "trans": [
+      "間接疑問文。\n文の中に疑問語（疑問詞）を使った疑問文を埋め込んで使う表現。"
+    ],
+    "notation": "か"
+  },
+  {
+    "name": "naikanouchini",
+    "trans": [
+      "\"～するのとほぼ同時に\"\n前の事象が起こる直前で、後ろの事象が起こることを表す。"
+    ],
+    "notation": "ないかのうちに"
+  },
+  {
+    "name": "kanenai",
+    "trans": [
+      "〜してしまうかもしれない / 〜という悪い結果になる可能性がある\nある原因から悪い結果になる可能性がある。\n[英訳]\nIndicates the possibility of a certain cause leading to an unfavorable effect."
+    ],
+    "notation": "かねない"
+  },
+  {
+    "name": "kaneru",
+    "trans": [
+      "\"〜できない\"\n不可能を表し、硬い表現なのでビジネスで使われる場合が多い。\n「かねる」は「～しようとしてもできない」、「〜するのが難しくできない」という気持ちが含まれており、婉曲的に断るときに使われる。\n[英訳]\ncannot"
+    ],
+    "notation": "かねる"
+  },
+  {
+    "name": "kanoyouda",
+    "trans": [
+      "〜ように見える / 〜ように感じる\n実際にはそうではないが〜のように見えたり感じたりすると言いたい時に使う。"
+    ],
+    "notation": "かのようだ"
+  },
+  {
+    "name": "kanoyouni",
+    "trans": [
+      "〜ように見える / 〜ように感じる\n実際にはそうではないが〜のように見えたり感じたりすると言いたい時に使う。"
+    ],
+    "notation": "かのように"
+  },
+  {
+    "name": "karaiuto",
+    "trans": [
+      "〜を考えると / 〜から判断すると\n[英訳]\njudging from"
+    ],
+    "notation": "からいうと"
+  },
+  {
+    "name": "karaitte",
+    "trans": [
+      "〜を考えると / 〜から判断すると\n[英訳]\njudging from"
+    ],
+    "notation": "からいって"
+  },
+  {
+    "name": "karaieba",
+    "trans": [
+      "〜を考えると / 〜から判断すると\n[英訳]\njudging from"
+    ],
+    "notation": "からいえば"
+  },
+  {
+    "name": "karashite",
+    "trans": [
+      "①１つの例を出して、その例が～なのだから、他も～であると言いたい時に使う。\n②〜から判断して"
+    ],
+    "notation": "からして"
+  },
+  {
+    "name": "karasuruto",
+    "trans": [
+      "〜の立場で考えると\n[英訳]\nfrom the standpoint of 〜 / Judging form 〜"
+    ],
+    "notation": "からすると"
+  },
+  {
+    "name": "karatoitte",
+    "trans": [
+      "たとえ〜という理由があっても\n[英訳]\njust because"
+    ],
+    "notation": "からといって"
+  },
+  {
+    "name": "kimi",
+    "trans": [
+      "いつもと違って、少し〜の感じがする\nネガティブな言葉として使われる。\n[英訳]\nbe a little / have a touch of"
+    ],
+    "notation": "気味(きみ)"
+  },
+  {
+    "name": "kiri",
+    "trans": [
+      "\"〜してから、そのままずっと\"\nある行為が行われてから、その後繰り返されていないことを表す。"
+    ],
+    "notation": "きり"
+  },
+  {
+    "name": "kuseni",
+    "trans": [
+      "〜という立場・身分なのに\n逆接を表す「〜のに」と似た表現だが、「〜のに」には不満の気持ちが含まれている。\n「〜くせに」は相手を侮辱したり、非難する時にも使われる。\n「くせして」はくだけた会話で使う。\n「本当は嬉しいくせに」のように相手をからかう時にも使われる。\n[英訳]\ndespite the fact that"
+    ],
+    "notation": "くせに"
+  },
+  {
+    "name": "kuseshite",
+    "trans": [
+      "〜という立場・身分なのに\n逆接を表す「〜のに」と似た表現だが、「〜のに」には不満の気持ちが含まれている。\n「〜くせに」は相手を侮辱したり、非難する時にも使われる。\n「くせして」はくだけた会話で使う。\n「本当は嬉しいくせに」のように相手をからかう時にも使われる。\n[英訳]\ndespite the fact that"
+    ],
+    "notation": "くせして"
+  },
+  {
+    "name": "kurainara",
+    "trans": [
+      "〜よりも、むしろ・・・のほうがいい。\n話し手が「悪い」、「嫌だ」と思っていることを、他と比べる表現。"
+    ],
+    "notation": "くらいなら"
+  },
+  {
+    "name": "ge",
+    "trans": [
+      "〜そうだ / 〜そうな様子だ\n人の気持ちを表す言葉について、「そのような様子である」と言いたい時に使われる。\n目上の人の様子をいう時にはあまり使わない。\n[英訳]\nseems like"
+    ],
+    "notation": "げ"
+  },
+  {
+    "name": "kotoda",
+    "trans": [
+      "〜しなさい / 〜したほうがいい\n〜するな / 〜しないほうがいい\n助言や忠告をする時に使う表現。"
+    ],
+    "notation": "ことだ"
+  },
+  {
+    "name": "kotodashi",
+    "trans": [
+      "ので / から\n軽い理由を表す言い方。\n[英訳]\nsince / because"
+    ],
+    "notation": "ことだし"
+  },
+  {
+    "name": "kotonaku",
+    "trans": [
+      "〜ないで\n硬い表現なので、日常的なことに使うと違和感のある文になる場合がある。\n（例）私はコーヒーを飲むとき、砂糖を入れることなく飲みます。\n[英訳]\nwithout"
+    ],
+    "notation": "ことなく"
+  },
+  {
+    "name": "kotodarou",
+    "trans": [
+      "非常に〜だと感じる。\n話し手が感情を込めて言う表現。"
+    ],
+    "notation": "ことだろう"
+  },
+  {
+    "name": "kotoka",
+    "trans": [
+      "非常に〜だと感じる。\n話し手が感情を込めて言う表現。"
+    ],
+    "notation": "ことか"
+  },
+  {
+    "name": "kotoninaruto",
+    "trans": [
+      "～の話題になると / ～の話になると\n〜の話題について話すと、ある人の態度が急に変わることを表す表現\n[英訳]\nwhen it comes to"
+    ],
+    "notation": "ことになると"
+  },
+  {
+    "name": "kototonaruto",
+    "trans": [
+      "～の話題になると / ～の話になると\n〜の話題について話すと、ある人の態度が急に変わることを表す表現\n[英訳]\nwhen it comes to"
+    ],
+    "notation": "こととなると"
+  },
+  {
+    "name": "kotoni",
+    "trans": [
+      "とても〜で"
+    ],
+    "notation": "ことに"
+  },
+  {
+    "name": "zaruwo ena i",
+    "trans": [
+      "～しなければならない / どうしても〜する必要がある。\nそのことはしたくないが、避けられない状況でどうしてもする必要があるということを表す。"
+    ],
+    "notation": "ざるを得な(えな)い"
+  },
+  {
+    "name": "shidai",
+    "trans": [
+      "〜したらすぐに / 〜が終わったらすぐに\n[英訳]\nas soon as"
+    ],
+    "notation": "次第(しだい)"
+  },
+  {
+    "name": "shidai da",
+    "trans": [
+      "〜によって決まる\n[英訳]\ndepends on"
+    ],
+    "notation": "次第(しだい)だ"
+  },
+  {
+    "name": "shidai de",
+    "trans": [
+      "〜によって決まる\n[英訳]\ndepends on"
+    ],
+    "notation": "次第(しだい)で"
+  },
+  {
+    "name": "matsu ni",
+    "trans": [
+      "色々〜したけど、最終的に。"
+    ],
+    "notation": "末(まつ)に"
+  },
+  {
+    "name": "matsu no",
+    "trans": [
+      "色々〜したけど、最終的に。"
+    ],
+    "notation": "末(まつ)の"
+  },
+  {
+    "name": "zujimai",
+    "trans": [
+      "〜しないで終わる\n「しようと思っていたことをしないまま、終わってしまった」と言いたい時に使う。\n[英訳]\nended up not"
+    ],
+    "notation": "ずじまい"
+  },
+  {
+    "name": "zunihairarenai",
+    "trans": [
+      "どうしても〜しないでいることはできない。/ どうしても〜してしまう。\n身体的に我慢できない場合や、ものごとの様子や事情を見て、話し手の心の中で「〜したい」とう気持ちが起こり、意志の力で抑えられない時に使う。\n[英訳]\nThese expression indicate that a certain feeling could not be contained, or that a feeling naturally resulted from a certain condition."
+    ],
+    "notation": "ずにはいられない"
+  },
+  {
+    "name": "naidehairarenai",
+    "trans": [
+      "どうしても〜しないでいることはできない。/ どうしても〜してしまう。\n身体的に我慢できない場合や、ものごとの様子や事情を見て、話し手の心の中で「〜したい」とう気持ちが起こり、意志の力で抑えられない時に使う。\n[英訳]\nThese expression indicate that a certain feeling could not be contained, or that a feeling naturally resulted from a certain condition."
+    ],
+    "notation": "ないではいられない"
+  },
+  {
+    "name": "ppoi",
+    "trans": [
+      "①名詞 / い形容詞 + っぽい：～のように感じる / ～のように見える\n②名詞 + っぽい：〜が多いと感じる\n③動詞 + っぽい：〜しやすい / よく〜する\n[英訳]\nseems like / somewhat"
+    ],
+    "notation": "っぽい"
+  },
+  {
+    "name": "souninai",
+    "trans": [
+      "できる可能性が低いことを表す。\n話し手が状況から判断して言う表現。"
+    ],
+    "notation": "そうにない"
+  },
+  {
+    "name": "dakeatte",
+    "trans": [
+      "〜ので、当然・・・だ。"
+    ],
+    "notation": "だけあって"
+  },
+  {
+    "name": "dakenokotohaatte",
+    "trans": [
+      "〜ので、当然・・・だ。"
+    ],
+    "notation": "だけのことはあって"
+  },
+  {
+    "name": "dakeni",
+    "trans": [
+      "〜ので、もっと・・・だ。 / 〜ので、なおさら・・・だ。"
+    ],
+    "notation": "だけに"
+  },
+  {
+    "name": "dakemashi",
+    "trans": [
+      "良いとは言えないが、他の状況よりかまだいい"
+    ],
+    "notation": "だけまし"
+  },
+  {
+    "name": "tate",
+    "trans": [
+      "〜したばかりで\n新しさ、新鮮さを強調する表現。プラスの意味で使われることが多い。"
+    ],
+    "notation": "たて"
+  },
+  {
+    "name": "tamonodehanai",
+    "trans": [
+      "とても〜できない"
+    ],
+    "notation": "たものではない"
+  },
+  {
+    "name": "kkonai",
+    "trans": [
+      "絶対に～ない / 〜はずがない\n強い否定の表現で、話し言葉。\n親しい間柄の人に対して使う。\n[英訳]\n\"there is no chance / no way\"\nA strong negative expression, used in spoken language.\nIt is used for people with whom you have a close relationship."
+    ],
+    "notation": "っこない"
+  },
+  {
+    "name": "tsutsu",
+    "trans": [
+      "けれども\n[英訳]\neven though"
+    ],
+    "notation": "つつ"
+  },
+  {
+    "name": "tsutsuaru",
+    "trans": [
+      "だんだん〜ている。\n書き言葉で使われる。動作や作用がある方向に変化していることを表す。\n[英訳]\nUsed in written language. Indicates a movement or an operation is changing towards a certain direction."
+    ],
+    "notation": "つつある"
+  },
+  {
+    "name": "tekonokata",
+    "trans": [
+      "〜してから、今までずっと。 / 〜以来\n[英訳]\nAll the time since ~"
+    ],
+    "notation": "てこのかた"
+  },
+  {
+    "name": "tedemo",
+    "trans": [
+      "〜という手段をとってでも\n何としてでも、どんな手段を使って実現したいという強い気持ちが含まれる。"
+    ],
+    "notation": "てでも"
+  },
+  {
+    "name": "tenaranai",
+    "trans": [
+      "\"気持ちが抑えられないほど〜だ / ひどく〜だ\"\n感情や感覚を表す言葉と接続することが多い。\n[英訳]\ncannot help"
+    ],
+    "notation": "てならない"
+  },
+  {
+    "name": "tehairarenai",
+    "trans": [
+      "このままの状態を維持し続けることはできない\n時間的に、あるいは精神的に余裕がない状態にあり、そうすることができないと言いたい時に使う。"
+    ],
+    "notation": "てはいられない"
+  },
+  {
+    "name": "tehanaranai",
+    "trans": [
+      "\"気持ちが抑えられないほど〜だ / ひどく〜だ\"\n感情や感覚を表す言葉と接続することが多い。\n[英訳]\ncannot help"
+    ],
+    "notation": "てはならない"
+  },
+  {
+    "name": "temade",
+    "trans": [
+      "〜のような極端な程度まで"
+    ],
+    "notation": "てまで"
+  },
+  {
+    "name": "madeshite",
+    "trans": [
+      "〜のような極端な程度まで"
+    ],
+    "notation": "までして"
+  },
+  {
+    "name": "temiseru",
+    "trans": [
+      "がんばって〜するつもりだ / 本当に〜するつもりだ\n①話し手の強い決意や覚悟を示す表現。\n②相手にわかるように何か具体的な行為を示す表現。"
+    ],
+    "notation": "てみせる"
+  },
+  {
+    "name": "toitta",
+    "trans": [
+      "〜のような\n例を挙げるときに使う表現。\n[英訳]\nlike / such as"
+    ],
+    "notation": "といった"
+  },
+  {
+    "name": "toittara",
+    "trans": [
+      "① 〜は\n驚きや、感動した気持ちの程度を話題にするときに使う。\n② 〜について話すと\nN1といったらN2：N1と聞いたり、見たりすると、すぐにN2を連想する。"
+    ],
+    "notation": "といったら"
+  },
+  {
+    "name": "tokade",
+    "trans": [
+      "\"〜そうで\"\n伝聞表現。断定した言い方を避けたい時にも使う。\n[英訳]\nI heard something to the effect that"
+    ],
+    "notation": "とかで"
+  },
+  {
+    "name": "dokoroka",
+    "trans": [
+      "①実際に～とは違って・・・だ。（正反対）\n② 〜だけでなく 、・・・も\n話し手の驚きや意外な気持ちを含む。"
+    ],
+    "notation": "どころか"
+  },
+  {
+    "name": "tokorodatta",
+    "trans": [
+      "もう少しで～になる可能性があった。/ ～という結果になったかもしれない。\n実際にはなっていないが、そうなりそうであったことを言う時に使う。\n[英訳]\nnearly ended up / almost / was about to happen"
+    ],
+    "notation": "ところだった"
+  },
+  {
+    "name": "dokorodehanai",
+    "trans": [
+      "\"～はとてもできない / ～する時間がない\"\n「～する余裕がない」、「〜の他にもっと大切なことがある」と強く否定したいときに使う表現。\n[英訳]\nno way"
+    ],
+    "notation": "どころではない"
+  },
+  {
+    "name": "toshite",
+    "trans": [
+      "〜という立場で / 資格で / 名目で立場や資格などをはっきりと示すときに使う表現。\n[英訳]\nas N"
+    ],
+    "notation": "として"
+  },
+  {
+    "name": "nai",
+    "trans": [
+      "全く〜ない\n否定の強調。"
+    ],
+    "notation": "ない"
+  },
+  {
+    "name": "totomoni",
+    "trans": [
+      "〜といっしょに / 〜と同時に\n[英訳]\nwith"
+    ],
+    "notation": "とともに"
+  },
+  {
+    "name": "tonaruto",
+    "trans": [
+      "もしそうなったら\n話し手の意見や評価を言う表現で、「〜」と仮定したら、状況は異なると言いたい時に使う。"
+    ],
+    "notation": "となると"
+  },
+  {
+    "name": "tonareba",
+    "trans": [
+      "もしそうなったら\n話し手の意見や評価を言う表現で、「〜」と仮定したら、状況は異なると言いたい時に使う。"
+    ],
+    "notation": "となれば"
+  },
+  {
+    "name": "tonattara",
+    "trans": [
+      "もしそうなったら\n話し手の意見や評価を言う表現で、「〜」と仮定したら、状況は異なると言いたい時に使う。"
+    ],
+    "notation": "となったら"
+  },
+  {
+    "name": "toha",
+    "trans": [
+      "〜は〜という意味だ。"
+    ],
+    "notation": "とは"
+  },
+  {
+    "name": "ni koshi takotohanai",
+    "trans": [
+      "常識的に考えて〜の方がいい。〜の方が安全だ。\n[英訳]\nnothing can be better than"
+    ],
+    "notation": "に越し(こし)たことはない"
+  },
+  {
+    "name": "ni kotae te",
+    "trans": [
+      "〜を受け入れて  / 〜合うように\n「相手の希望や要求、期待の通りにする、合うようにする」と言いたい時に使う。"
+    ],
+    "notation": "に応え(こたえ)て"
+  },
+  {
+    "name": "ni saishi te",
+    "trans": [
+      "〜するときに / 〜に先立ち\n特別な何かをする始めるときに使う言葉。"
+    ],
+    "notation": "に際し(さいし)て"
+  },
+  {
+    "name": "ni kagitsu te",
+    "trans": [
+      "①〜の場合だけ、絶対に〜ない。\n②〜の場合だけ、特にそうである / 運悪くそうなる。"
+    ],
+    "notation": "に限っ(かぎっ)て"
+  },
+  {
+    "name": "ni soui nai",
+    "trans": [
+      "きっと〜だ / 〜に間違いない\n話し手が確信を持って述べる推量表現。\n[英訳]\nwithout"
+    ],
+    "notation": "に相違(そうい)ない"
+  },
+  {
+    "name": "nite",
+    "trans": [
+      "〜で\n①場所\n②手段・方法\n③時間\n④原因・理由"
+    ],
+    "notation": "にて"
+  },
+  {
+    "name": "nominarazu",
+    "trans": [
+      "～だけでなく\n[英訳]\nnot only, but"
+    ],
+    "notation": "のみならず"
+  },
+  {
+    "name": "panashi",
+    "trans": [
+      "〜したままだ\nすべきことがあるのに、しないでそのままの状態にしてしまうことを表す。\n[英訳]\nleave on / leave out / leave as is"
+    ],
+    "notation": "ぱなし"
+  },
+  {
+    "name": "buru",
+    "trans": [
+      "（本当はそうではないのに）〜のように振る舞う"
+    ],
+    "notation": "ぶる"
+  },
+  {
+    "name": "naikotoniha",
+    "trans": [
+      "～しなければ～ない\n後件の条件が成立するには、前件の条件が成立しなければならないということを表す。\n[英訳]\nunless"
+    ],
+    "notation": "ないことには"
+  },
+  {
+    "name": "naikotohanai",
+    "trans": [
+      "〜という可能性があるかもしれない / 絶対に〜とは言えない\n断定を避けるために使われる言い方。"
+    ],
+    "notation": "ないことはない"
+  },
+  {
+    "name": "naikotomonai",
+    "trans": [
+      "〜という可能性があるかもしれない / 絶対に〜とは言えない\n断定を避けるために使われる言い方。"
+    ],
+    "notation": "ないこともない"
+  },
+  {
+    "name": "naide sumu",
+    "trans": [
+      "〜しなくてもいい / 〜なくても問題はない"
+    ],
+    "notation": "ないで済む(すむ)"
+  },
+  {
+    "name": "zuni sumu",
+    "trans": [
+      "〜しなくてもいい / 〜なくても問題はない"
+    ],
+    "notation": "ずに済む(すむ)"
+  },
+  {
+    "name": "naidemonai",
+    "trans": [
+      "全く〜ないわけではない / 場合によっては〜する"
+    ],
+    "notation": "ないでもない"
+  },
+  {
+    "name": "naimonodemonai",
+    "trans": [
+      "全く〜ないわけではない / 場合によっては〜する"
+    ],
+    "notation": "ないものでもない"
+  },
+  {
+    "name": "naitomo kagira nai",
+    "trans": [
+      "もしかしたら〜かもしれない / 絶対にそうだとは言えない"
+    ],
+    "notation": "ないとも限ら(かぎら)ない"
+  },
+  {
+    "name": "nante",
+    "trans": [
+      "〜にようなものは / 〜なようなことは\n①例を挙げる時に使う\n②謙遜する時に使う\n③相手を軽視する時に使う。\n[英訳]\nlike"
+    ],
+    "notation": "なんて"
+  },
+  {
+    "name": "niatari",
+    "trans": [
+      "〜するとき\n特別な場面や重要な場面で使う。\n使用場面の例：新学期、入学、卒業、就職、結婚、発表、試験など"
+    ],
+    "notation": "にあたり"
+  },
+  {
+    "name": "niatatte",
+    "trans": [
+      "〜するとき\n特別な場面や重要な場面で使う。\n使用場面の例：新学期、入学、卒業、就職、結婚、発表、試験など"
+    ],
+    "notation": "にあたって"
+  },
+  {
+    "name": "ni ouji te",
+    "trans": [
+      "～にあわせて\n前の事柄が変われば、それに合わせて後の事柄も変わる。"
+    ],
+    "notation": "に応じ(おうじ)て"
+  },
+  {
+    "name": "ni kagira zu",
+    "trans": [
+      "～だけでなく、・・・\n「・・・」には「～」よりも広い意味の言葉が来る。"
+    ],
+    "notation": "に限ら(かぎら)ず"
+  },
+  {
+    "name": "ni kagiri",
+    "trans": [
+      "～にだけ特別に・・・する。\n[英訳]\nonly for"
+    ],
+    "notation": "に限り(かぎり)"
+  },
+  {
+    "name": "ni kuwae te",
+    "trans": [
+      "〜だけでなく、さらに\n[英訳]\nin addition to"
+    ],
+    "notation": "に加え(くわえ)て"
+  },
+  {
+    "name": "ni sakidatsu te",
+    "trans": [
+      "〜の前の準備として、必要なことをする\n「卒業」や「留学」など特別な事に対して使う。"
+    ],
+    "notation": "に先立っ(さきだっ)て"
+  },
+  {
+    "name": "ni sakidachi",
+    "trans": [
+      "〜の前の準備として、必要なことをする\n「卒業」や「留学」など特別な事に対して使う。"
+    ],
+    "notation": "に先立ち(さきだち)"
+  },
+  {
+    "name": "nishitara",
+    "trans": [
+      "～の立場に立って考えると\n[英訳]\neven for"
+    ],
+    "notation": "にしたら"
+  },
+  {
+    "name": "nisureba",
+    "trans": [
+      "～の立場に立って考えると\n[英訳]\neven for"
+    ],
+    "notation": "にすれば"
+  },
+  {
+    "name": "nishitemitara",
+    "trans": [
+      "～の立場に立って考えると\n[英訳]\neven for"
+    ],
+    "notation": "にしてみたら"
+  },
+  {
+    "name": "nishiteha",
+    "trans": [
+      "～にふさわしくない / ～から予想される結果と違って・・・\nその事実から当然考えられる姿とは違うことを表す表現。他の人を批判したり評価したりするときに使われる。自分自身のことにはほとんど使われない。\n[英訳]\nfor\nconsidering"
+    ],
+    "notation": "にしては"
+  },
+  {
+    "name": "ni sotte",
+    "trans": [
+      "〜にしたがって / 〜から離れないように\n[英訳]\nalong"
+    ],
+    "notation": "に沿って(そって)"
+  },
+  {
+    "name": "nitsuki",
+    "trans": [
+      "「Nにつき」でNに対してどのぐらい費用や時間がかかるのか、サービスがあるのかなどを表す。\n話すときは「につき」を省略して言うことが多い。\n[英訳]\nper"
+    ],
+    "notation": "につき"
+  },
+  {
+    "name": "nitsukete",
+    "trans": [
+      "～すると、いつも同じ気持ちになる。\n[英訳]\nwhenever"
+    ],
+    "notation": "につけて"
+  },
+  {
+    "name": "nihokanaranai",
+    "trans": [
+      "〜以外のものではない /  絶対に〜だ"
+    ],
+    "notation": "にほかならない"
+  },
+  {
+    "name": "nimo kakawa razu",
+    "trans": [
+      "〜のに\n予想と違ったことに対する、話し手の驚き・不満・非難などの気持ちを表す。"
+    ],
+    "notation": "にも関わ(かかわ)らず"
+  },
+  {
+    "name": "ni motozu ite",
+    "trans": [
+      "〜を基礎にして / 〜を根拠に\n[英訳]\nbased on"
+    ],
+    "notation": "に基づ(もとづ)いて"
+  },
+  {
+    "name": "nu",
+    "trans": [
+      "〜ない"
+    ],
+    "notation": "ぬ"
+  },
+  {
+    "name": "nukinishite",
+    "trans": [
+      "〜を考慮に入れず / 〜を除いて\n[英訳]\nwithout"
+    ],
+    "notation": "ぬきにして"
+  },
+  {
+    "name": "nukide",
+    "trans": [
+      "〜を考慮に入れず / 〜を除いて\n[英訳]\nwithout"
+    ],
+    "notation": "ぬきで"
+  },
+  {
+    "name": "nuku",
+    "trans": [
+      "最後まで頑張って〜する。"
+    ],
+    "notation": "ぬく"
+  },
+  {
+    "name": "no uede ha",
+    "trans": [
+      "〜という点から考えると / 〜という方面で"
+    ],
+    "notation": "の上で(うえで)は"
+  },
+  {
+    "name": "ueno",
+    "trans": [
+      "〜という点から考えると / 〜という方面で"
+    ],
+    "notation": "上の(うえの)"
+  },
+  {
+    "name": "nokotodakara",
+    "trans": [
+      "〜なのだからきっと\n性格やいつもの行動から判断して〜だと述べる表現。"
+    ],
+    "notation": "のことだから"
+  },
+  {
+    "name": "nomotode",
+    "trans": [
+      "〜の下で / 〜に頼って\n[英訳]\nunder"
+    ],
+    "notation": "のもとで"
+  },
+  {
+    "name": "bakarika",
+    "trans": [
+      "〜だけでなく"
+    ],
+    "notation": "ばかりか"
+  },
+  {
+    "name": "bakarida",
+    "trans": [
+      "「ますます～していく」\n物事が悪い方向に変化が進んで行くことを表す。"
+    ],
+    "notation": "ばかりだ"
+  },
+  {
+    "name": "bakarini",
+    "trans": [
+      "～ので / ～が原因で\n話し手の後悔や残念な気持ちを表すことが多く、後ろの文には悪い結果が来る。\n「～たいばかりに」や「～が欲しいばかりに」は「どうしても～したいので」という意味になる。"
+    ],
+    "notation": "ばかりに"
+  },
+  {
+    "name": "hasateoki",
+    "trans": [
+      "〜のことは今は置いておいて"
+    ],
+    "notation": "はさておき"
+  },
+  {
+    "name": "hatomokakutoshite",
+    "trans": [
+      "～は今は問題にしないで・・・だ。\n～について考える必要があるが、今は置いておいて・・・を優先させる。"
+    ],
+    "notation": "はともかくとして"
+  },
+  {
+    "name": "hamadashimo",
+    "trans": [
+      "〜なら少しはいいが / 〜はまだ許容範囲であるが"
+    ],
+    "notation": "はまだしも"
+  },
+  {
+    "name": "naramadashimo",
+    "trans": [
+      "〜なら少しはいいが / 〜はまだ許容範囲であるが"
+    ],
+    "notation": "ならまだしも"
+  },
+  {
+    "name": "hamotoyori",
+    "trans": [
+      "〜はもちろん"
+    ],
+    "notation": "はもとより"
+  },
+  {
+    "name": "hanmen",
+    "trans": [
+      "一方で / 一つの面では〜であるが、別の面から見ると\n[英訳]\non the other hand"
+    ],
+    "notation": "反面(はんめん)"
+  },
+  {
+    "name": "mai",
+    "trans": [
+      "～しようと思わない\n強い否定の意志を表す。そのため、主語は１人称となる。"
+    ],
+    "notation": "まい"
+  },
+  {
+    "name": "mamani",
+    "trans": [
+      "〜とおりに / 〜にしたがって"
+    ],
+    "notation": "ままに"
+  },
+  {
+    "name": "mokamawazu",
+    "trans": [
+      "〜も気にしないで\n「普通は気にすることだが、それを気にしないで」と言いたい時に使う。"
+    ],
+    "notation": "もかまわず"
+  },
+  {
+    "name": "moshinai",
+    "trans": [
+      "全く〜しない\n話し手の不満の気持ちを表す。"
+    ],
+    "notation": "もしない"
+  },
+  {
+    "name": "monoka",
+    "trans": [
+      "二度と〜ない / 決して〜ない\n強い否定を表す"
+    ],
+    "notation": "ものか"
+  },
+  {
+    "name": "monodesuka",
+    "trans": [
+      "二度と〜ない / 決して〜ない\n強い否定を表す"
+    ],
+    "notation": "ものですか"
+  },
+  {
+    "name": "monogaaru",
+    "trans": [
+      "なんとなく〜だと感じられる。"
+    ],
+    "notation": "ものがある"
+  },
+  {
+    "name": "monoda",
+    "trans": [
+      "本来そうだと思われることを表す。当然〜する。\n物事の本来の性質や傾向などを表す。\n[英訳]\nNormally, in general, should ~, must ~\nUsed to express something that is considered to be common knowledge."
+    ],
+    "notation": "ものだ"
+  },
+  {
+    "name": "monodakara",
+    "trans": [
+      "～ので\n理由を言うときの言い方で、「本当は〜したくなかったが、〜なので」と謝罪の意味を込めて言う時に使われる。\n[英訳]\nbecause\nUsed to decline an invitation or tell a personal excuse."
+    ],
+    "notation": "ものだから"
+  },
+  {
+    "name": "mononara",
+    "trans": [
+      "〜なら\n実現が難しいものやことに対しての願望や期待を表す。後ろには「〜たい」や「〜みろ」、「〜て欲しい」など願望や命令を表す言葉が来る。"
+    ],
+    "notation": "ものなら"
+  },
+  {
+    "name": "monono",
+    "trans": [
+      "だけれども\n[英訳]\n\"It is true that it is ~ however.\"\nIndicate that expectations or wishes based on certain established facts mentioned in the first clause differ from reality."
+    ],
+    "notation": "ものの"
+  },
+  {
+    "name": "mon",
+    "trans": [
+      "〜から\nくだけた話し言葉。子供がよく使う。\n[英訳]\nbecause"
+    ],
+    "notation": "もん"
+  },
+  {
+    "name": "ndamon",
+    "trans": [
+      "〜から\nくだけた話し言葉。子供がよく使う。\n[英訳]\nbecause"
+    ],
+    "notation": "んだもん"
+  },
+  {
+    "name": "yara",
+    "trans": [
+      "〜や〜など\n色々あるがその中の代表例を１つ２つあげる時に使う。いろいろあって大変だ、不満があるということに使われることが多い。\n[英訳]\nand so on"
+    ],
+    "notation": "やら"
+  },
+  {
+    "name": "youtoshiteiru",
+    "trans": [
+      "もうすぐ〜する / 間もなく〜する\n物事が始まる、あるいは終わる直前を表す。"
+    ],
+    "notation": "ようとしている"
+  },
+  {
+    "name": "youmononara",
+    "trans": [
+      "もし〜のようなことをしたら\n万一〜のようなことをしたら、大変なことが起こるということを表す。"
+    ],
+    "notation": "ようものなら"
+  },
+  {
+    "name": "wo keiki ni",
+    "trans": [
+      "〜をいい機会だと考えて / 〜をきっかけにして"
+    ],
+    "notation": "を契機(けいき)に"
+  },
+  {
+    "name": "wo keiki toshite",
+    "trans": [
+      "〜をいい機会だと考えて / 〜をきっかけにして"
+    ],
+    "notation": "を契機(けいき)として"
+  },
+  {
+    "name": "wo tayori ni",
+    "trans": [
+      "〜を助けに\n[英訳]\nto rely on"
+    ],
+    "notation": "を頼り(たより)に"
+  },
+  {
+    "name": "wo tayori toshite",
+    "trans": [
+      "〜を助けに\n[英訳]\nto rely on"
+    ],
+    "notation": "を頼り(たより)として"
+  },
+  {
+    "name": "wo towa zu",
+    "trans": [
+      "〜に関係なく / 〜問題にしないで\n[英訳]\nregardless of / irrespective of"
+    ],
+    "notation": "を問わ(とわ)ず"
+  },
+  {
+    "name": "wo nozoi te",
+    "trans": [
+      "〜を例外として / 〜以外\nグループの中から、一部を除外することを表す。\n[英訳]\nexcept"
+    ],
+    "notation": "を除い(のぞい)て"
+  },
+  {
+    "name": "wo nozoki",
+    "trans": [
+      "〜を例外として / 〜以外\nグループの中から、一部を除外することを表す。\n[英訳]\nexcept"
+    ],
+    "notation": "を除き(のぞき)"
+  },
+  {
+    "name": "wo nozoke ba",
+    "trans": [
+      "〜を例外として / 〜以外\nグループの中から、一部を除外することを表す。\n[英訳]\nexcept"
+    ],
+    "notation": "を除け(のぞけ)ば"
+  },
+  {
+    "name": "wohajime",
+    "trans": [
+      "〜を第一に\n代表的なものを１つ「〜をはじめ」でピックアップし、それから、他の同じグループのものを言うときに使う。"
+    ],
+    "notation": "をはじめ"
+  },
+  {
+    "name": "womegutte",
+    "trans": [
+      "〜について\nどんな議論や争い、意見の対立が起きているのかを説明するときに使う表現。"
+    ],
+    "notation": "をめぐって"
+  },
+  {
+    "name": "womotoni",
+    "trans": [
+      "～を素材／基本／基準／参考にして\n[英訳]\nbased on ~"
+    ],
+    "notation": "をもとに"
+  },
+  {
+    "name": "ndakara",
+    "trans": [
+      "〜なので\n理由は話し手も聞き手も知っていること。その上で、話し手の判断を言う時や相手へ確認する時に使う。\n[英訳]\nsince / because"
+    ],
+    "notation": "んだから"
+  },
+  {
+    "name": "nodakara",
+    "trans": [
+      "〜なので\n理由は話し手も聞き手も知っていること。その上で、話し手の判断を言う時や相手へ確認する時に使う。\n[英訳]\nsince / because"
+    ],
+    "notation": "のだから"
+  },
+  {
+    "name": "au",
+    "trans": [
+      "お互いに〜する\n[英訳]\ndo something each other"
+    ],
+    "notation": "合う(あう)"
+  },
+  {
+    "name": "ikura",
+    "trans": [
+      "数量や程度がどのようになっても、影響しないことを表す。"
+    ],
+    "notation": "いくら"
+  },
+  {
+    "name": "donnani",
+    "trans": [
+      "数量や程度がどのようになっても、影響しないことを表す。"
+    ],
+    "notation": "どんなに"
+  },
+  {
+    "name": "ippou da",
+    "trans": [
+      "ますます～していく"
+    ],
+    "notation": "一方(いっぽう)だ"
+  },
+  {
+    "name": "ueni",
+    "trans": [
+      "～に加えて / それに\n[英訳]\non the top of that / in addition"
+    ],
+    "notation": "上に(うえに)"
+  },
+  {
+    "name": "uchini",
+    "trans": [
+      "〜という状況になる前に\n[英訳]\nwhile / before the situation changes"
+    ],
+    "notation": "うちに"
+  },
+  {
+    "name": "okagede",
+    "trans": [
+      "〜が原因で\n基本的に良い結果になった原因を言う時に使う。\n悪い結果に使うこともできるが、皮肉となる。\n[英訳]\n\"thanks to\"\nBasically,  used to describe the cause of a good outcome.\nThis can also be used for bad results, but it is ironic."
+    ],
+    "notation": "おかげで"
+  },
+  {
+    "name": "okini",
+    "trans": [
+      "〜間隔で / 〜の間を置いて"
+    ],
+    "notation": "おきに"
+  },
+  {
+    "name": "osoregaaru",
+    "trans": [
+      "\"〜という心配がある / 〜に可能性がある\"\n悪いことが起こるかもしれないと言いたい時に使われる表現。少し硬い表現でニュースや通知などに使われることが多い。\n[英訳]\nthere is fear that / something bad is likely to happen"
+    ],
+    "notation": "おそれがある"
+  },
+  {
+    "name": "o",
+    "trans": [
+      "「〜ていらっしゃる」の簡潔な言い方"
+    ],
+    "notation": "お"
+  },
+  {
+    "name": "gakikkakede",
+    "trans": [
+      "〜の行動が動機になって / それをするようになったのは〜があったからだ。\n[英訳]\nfor the initial reason of ~"
+    ],
+    "notation": "がきっかけで"
+  },
+  {
+    "name": "kakeru",
+    "trans": [
+      "① 途中まで～して、まだ～し終わらない\n② 〜しそうになる。\n継続動詞と接続すると①の途中までの状態であることを表す。\n瞬間動詞と接続すると②の直前を表す意味。"
+    ],
+    "notation": "かける"
+  },
+  {
+    "name": "kakeno",
+    "trans": [
+      "① 途中まで～して、まだ～し終わらない\n② 〜しそうになる。\n継続動詞と接続すると①の途中までの状態であることを表す。\n瞬間動詞と接続すると②の直前を表す意味。"
+    ],
+    "notation": "かけの"
+  },
+  {
+    "name": "kana ( a )",
+    "trans": [
+      "①疑問の気持ちを表す\n②依頼したり、許可を求めるときに使う"
+    ],
+    "notation": "かな(あ)"
+  },
+  {
+    "name": "kara",
+    "trans": [
+      "理由・原因を言う時に使う。\n[英訳]\n\"because\"\nUsed to say the reason or cause."
+    ],
+    "notation": "から"
+  },
+  {
+    "name": "nikakete",
+    "trans": [
+      "\"〜ぐらいから〜ぐらいまで\"\n範囲の始まりと終わりを表す。\n[英訳]\nFrom N1 to N2"
+    ],
+    "notation": "にかけて"
+  },
+  {
+    "name": "karaniha",
+    "trans": [
+      "\"〜のだから、当然・・・\"\n話し手の決意や判断などを言う時に使われる。"
+    ],
+    "notation": "からには"
+  },
+  {
+    "name": "kawarini",
+    "trans": [
+      "Vしないで、他のことをする。\nN（人や物）ではなく他の（人や物）が・・・。\n[英訳]\nInstead of V\n(Instead of V, do another thing / Instead of N(person or thing), another(person or thing))"
+    ],
+    "notation": "かわりに"
+  },
+  {
+    "name": "kiru",
+    "trans": [
+      "①全部〜する / 最後まで〜する\n②強く〜する / 非常に〜する"
+    ],
+    "notation": "きる"
+  },
+  {
+    "name": "kurai",
+    "trans": [
+      "～のような簡単なこと /  そんな小さいこと\n「～くらい」で「～」は大した問題では無い、小さいことだ、と軽く考えている時に使う言葉。\n[英訳]\nat least"
+    ],
+    "notation": "くらい"
+  },
+  {
+    "name": "kekka",
+    "trans": [
+      "〜によって（・・・になった / 〜がわかった）\n前件の事柄によって、どうなったのかを後件で言う。"
+    ],
+    "notation": "結果(けっか)"
+  },
+  {
+    "name": "koso",
+    "trans": [
+      "強調を表す。\nプラスの意味で使われる。（マイナスの意味を強調する使い方はしない。）\n[英訳]\nExpresses emphasis.\nIt is that...."
+    ],
+    "notation": "こそ"
+  },
+  {
+    "name": "koto",
+    "trans": [
+      "～しなさい / ～してください\n指示や規則などを書いて伝えるときの表現。（口で伝えることもある。）\n[英訳]\nyou should"
+    ],
+    "notation": "こと"
+  },
+  {
+    "name": "gotoni",
+    "trans": [
+      "〜たびに / 〜単位で / 〜周期で"
+    ],
+    "notation": "ごとに"
+  },
+  {
+    "name": "kotokara",
+    "trans": [
+      "〜が理由で / 〜が由来で / 〜が判断の根拠になって\n[英訳]\nfrom the fact that"
+    ],
+    "notation": "ことから"
+  },
+  {
+    "name": "kotoninatteiru",
+    "trans": [
+      "～という決まりである / 〜することが決まっている\n規則や習慣、予定などでそうすること、そうしないことがすでに決まっているという意味。\n[英訳]\nRules, customs or schedules that has been decided"
+    ],
+    "notation": "ことになっている"
+  },
+  {
+    "name": "kotohanai",
+    "trans": [
+      "～する必要はない / ～しないほうがいい\n① 悩んでいる人に「その必要はないよ」と助言や忠告をする時に使う。\n②「そんなに強く言うことは無いだろ」と非難として使うこともある。\n[英訳]\nno need"
+    ],
+    "notation": "ことはない"
+  },
+  {
+    "name": "komu",
+    "trans": [
+      "①長い時間〜する\n②内部への移動を表す。"
+    ],
+    "notation": "込む(こむ)"
+  },
+  {
+    "name": "saichuu ni",
+    "trans": [
+      "〜しているときに / ちょうど〜中に\n状態動詞や瞬間動詞と一緒に使うことができない。\n（例. 住んでいる最中に地震があった）\n[英訳]\nin the middle of"
+    ],
+    "notation": "最中(さいちゅう)に"
+  },
+  {
+    "name": "saini",
+    "trans": [
+      "〜ときに / 〜の機会に\n硬い表現である。そのため、日常会話ではあまり使わない。\n「際は」を使う場合、後件には「～ください」が来ることが多い。\n[英訳]\nwhen"
+    ],
+    "notation": "際に(さいに)"
+  },
+  {
+    "name": "saino",
+    "trans": [
+      "〜ときに / 〜の機会に\n硬い表現である。そのため、日常会話ではあまり使わない。\n「際は」を使う場合、後件には「～ください」が来ることが多い。\n[英訳]\nwhen"
+    ],
+    "notation": "際の(さいの)"
+  },
+  {
+    "name": "sae",
+    "trans": [
+      "〜が実現できれば、他は問題ない。\nある１つの条件が満たされれば、他は問題にならない、大丈夫だと言う意味。\n[英訳]\nPresupposes an only or particular condition."
+    ],
+    "notation": "さえ"
+  },
+  {
+    "name": "shikanai",
+    "trans": [
+      "それ以外に方法がない\n他に方法がない、仕方がないからそうすると、あきらめの気持ちで言う時に使う表現\n[英訳]\ncan't but / can only"
+    ],
+    "notation": "しかない"
+  },
+  {
+    "name": "hokanai",
+    "trans": [
+      "それ以外に方法がない\n他に方法がない、仕方がないからそうすると、あきらめの気持ちで言う時に使う表現\n[英訳]\ncan't but / can only"
+    ],
+    "notation": "ほかない"
+  },
+  {
+    "name": "janai ？",
+    "trans": [
+      "①だぶん～だと思う / たぶん～だろう\n②確認\n③聞き手に対する驚きや非難など\n[JLPT レベル]\nN3\n例文\n黒田さんは忙しいって言ってたから、今日のパーティーには来ないんじゃない？\nハサミ？テーブルの上にあるんじゃない？ちゃんと探した？\nあそこにいる人って、田中先生じゃない？\nすごーい、やればできるじゃない？\nちょっと！危ないじゃない。こんなところでボール遊びはダメよ。\nA：トムさんどこにいるか知らない？ B：さぁ。もう帰ったんじゃない？"
+    ],
+    "notation": "じゃない？"
+  },
+  {
+    "name": "zuni",
+    "trans": [
+      "〜しないで\n「〜ないで」と同じ意味だが、「〜ずに」の方が少し硬い。\n[英訳]\n\"without doing \"\nIt means the same as “～ないで,” but “～ずに” is a little more formal style."
+    ],
+    "notation": "ずに"
+  },
+  {
+    "name": "seide",
+    "trans": [
+      "「〜が原因で」\n悪い結果になった原因を言う時に使う。\n[英訳]\n\"because of / due to / on account of\"\nUsed to describe the cause of a bad result."
+    ],
+    "notation": "せいで"
+  },
+  {
+    "name": "tagaru",
+    "trans": [
+      "〜たがる：第３者がしたいことを述べる表現。\n〜がる：第３者が欲しいと思っているものを述べる表現。\n[英訳]\nA third person wants to do..."
+    ],
+    "notation": "たがる"
+  },
+  {
+    "name": "dake",
+    "trans": [
+      "限定を表す\n[英訳]\n\"only\"\nExpresses a limitation."
+    ],
+    "notation": "だけ"
+  },
+  {
+    "name": "dakedenaku",
+    "trans": [
+      "それだけではない。他にもある。\n範囲が〜より広く及ぶことを表す。\n[英訳]\nnot only....but also"
+    ],
+    "notation": "だけでなく"
+  },
+  {
+    "name": "tatoe",
+    "trans": [
+      "\"もし仮に〜という状況になったとしても\"\n前件の状況が成立したとしても 、後件に来る事柄に影響しないことを表す。"
+    ],
+    "notation": "たとえ"
+  },
+  {
+    "name": "temo",
+    "trans": [
+      "逆接の表現\n[英訳]\neven if"
+    ],
+    "notation": "ても"
+  },
+  {
+    "name": "tatokoro",
+    "trans": [
+      "～したら、～と言う結果になった / ～したら、～ということがわかった\nきっかけを言う表現。\n[英訳]\nwhen"
+    ],
+    "notation": "たところ"
+  },
+  {
+    "name": "tabini",
+    "trans": [
+      "〜のときはいつも / 〜するといつも\n[英訳]\n\"whenever\" , \"every time ~\".\nIt expresses admiration, frustration, and other such emotions about the same result occurring whenever a certain situation takes place."
+    ],
+    "notation": "たびに"
+  },
+  {
+    "name": "tameni",
+    "trans": [
+      "行為の目的を言う言い方。\n[英訳]\n\"in order to / so that / for\"\nA way of saying the purpose of an action."
+    ],
+    "notation": "ために"
+  },
+  {
+    "name": "tamonoda",
+    "trans": [
+      "過去の状態やよく起こったことを思い出して言う時の表現。\n[英訳]\n\"used to / would often\"\nUsed to express a past situation or what frequently occurred while remembering it."
+    ],
+    "notation": "たものだ"
+  },
+  {
+    "name": "darake",
+    "trans": [
+      "\"〜がたくさんある / 〜がたくさんついている\"\n同質のものが多量に存在していてよくない状態。\n[英訳]\nIndicates that something has a lot of something similar, which is undesirable."
+    ],
+    "notation": "だらけ"
+  },
+  {
+    "name": "darou",
+    "trans": [
+      "非常に〜だ\n感激したことや驚いたことを気持ちを込めて言う表現。"
+    ],
+    "notation": "だろう"
+  },
+  {
+    "name": "tsui",
+    "trans": [
+      "してはいけないと思っていることを無意識にしてしまう。 後悔の意味。\n[英訳]\ncarelessly V, without thinking V\n(Used to express that you unconsciously do or have done something that you don't think is right. It conveys regret.)"
+    ],
+    "notation": "つい"
+  },
+  {
+    "name": "teshimau",
+    "trans": [
+      "①完了：ある行為を完全に完了することを表す。\n②後悔：意図せずある行為を行い、残念だ、後悔していると言いたい時に使う。\n[英訳]\n① the action has been completed.\n② do negative action unintentionally. / something regrettable happens."
+    ],
+    "notation": "てしまう"
+  },
+  {
+    "name": "tsuideni",
+    "trans": [
+      "「〜する機会を利用して」\n「何かを行う機会を利用して、他のことも加えて行う」と言う時に使う表現。\n[英訳]\n\"while I'm at it / on the way\"\nUsed when saying \"Take the opportunity to do something in addition to doing something else”."
+    ],
+    "notation": "ついでに"
+  },
+  {
+    "name": "kke",
+    "trans": [
+      "でしたか？\n話し手が思い出せないことを相手に、聞く表現。独り言でも使うことがある。\n[英訳]\nUsed to confirm something the speaker can't remember. This is also used when the speaker talk to oneself."
+    ],
+    "notation": "っけ"
+  },
+  {
+    "name": "tsumorida",
+    "trans": [
+      "話し手の計画や予定を表す。\n[英訳]\n\"intend to do\"\nused to describe what a person is planning to do in the future or what a person is planning not to do."
+    ],
+    "notation": "つもりだ"
+  },
+  {
+    "name": "teiru",
+    "trans": [
+      "発話時点より以前に起こったことの結果の状態が継続していることを表す表現。"
+    ],
+    "notation": "ている"
+  },
+  {
+    "name": "teiru baai janai",
+    "trans": [
+      "今していることをすぐにでもやめて、他のことをしたほうがいいと言う時に使う。"
+    ],
+    "notation": "ている場合(ばあい)じゃない"
+  },
+  {
+    "name": "tekaradenaito",
+    "trans": [
+      "～した後でなければ"
+    ],
+    "notation": "てからでないと"
+  },
+  {
+    "name": "teshikataganai",
+    "trans": [
+      "① 我慢できないくらい～だ\n気持ちが強く、抑えることができないことを表す。\n② 最高に〜だ"
+    ],
+    "notation": "てしかたがない"
+  },
+  {
+    "name": "teshouganai",
+    "trans": [
+      "① 我慢できないくらい～だ\n気持ちが強く、抑えることができないことを表す。\n② 最高に〜だ"
+    ],
+    "notation": "てしょうがない"
+  },
+  {
+    "name": "te sumu",
+    "trans": [
+      "〜で十分だ / 〜で解決する / 〜で問題ない / 〜でOKだ"
+    ],
+    "notation": "て済む(すむ)"
+  },
+  {
+    "name": "tetamaranai",
+    "trans": [
+      "\"我慢できないほど～ / 非常に～\"\n強い感情がわき起こり、その気持ちを抑えることができないと言いたい時に使う。\n[英訳]\nunbearably"
+    ],
+    "notation": "てたまらない"
+  },
+  {
+    "name": "tehaikenaikara",
+    "trans": [
+      "よくない状況にならないように\n話し手がよくないと考える状況にならないよう～すると言いたいときに使う表現。\n[英訳]\nin order not to do / so that .... will do"
+    ],
+    "notation": "てはいけないから"
+  },
+  {
+    "name": "toikenaikara",
+    "trans": [
+      "よくない状況にならないように\n話し手がよくないと考える状況にならないよう～すると言いたいときに使う表現。\n[英訳]\nin order not to do / so that .... will do"
+    ],
+    "notation": "といけないから"
+  },
+  {
+    "name": "tehajimete",
+    "trans": [
+      "\"〜して、その時はじめて・・・”\n以前はしたことがなく、初めて経験してわかったこと・気づいたことを言う表現\n後件で述べる事柄のきっかけになった出来事を前件で述べる。\n[英訳]\nit is not until ~ that"
+    ],
+    "notation": "てはじめて"
+  },
+  {
+    "name": "temo kamawa nai",
+    "trans": [
+      "〜ても問題ない / 〜てもいい\n許可、許容を表す。"
+    ],
+    "notation": "ても構わ(かまわ)ない"
+  },
+  {
+    "name": "temoshikataganai",
+    "trans": [
+      "〜ても意味がない / 〜ても無駄だ\n[英訳]\nit cannot be helped"
+    ],
+    "notation": "てもしかたがない"
+  },
+  {
+    "name": "temoshouganai",
+    "trans": [
+      "〜ても意味がない / 〜ても無駄だ\n[英訳]\nit cannot be helped"
+    ],
+    "notation": "てもしょうがない"
+  },
+  {
+    "name": "temo hajima ranai",
+    "trans": [
+      "〜ても意味がない / 〜ても進まない\nそれをしても事態の進展には繋がらないことを表す。"
+    ],
+    "notation": "ても始ま(はじま)らない"
+  },
+  {
+    "name": "toieba",
+    "trans": [
+      "\"〜について話すと\"\nＮ２は、Ｎ１と聞いて、すぐに連想できる物や事柄。\n話題の提供や、話の切り替え時に使用されることが多い。\n[英訳]\nWhen it comes to N1, N2 is.... / Speaking of N1, N2 is....\n(This phrase is used to show N2 as a typical example of N1)"
+    ],
+    "notation": "といえば"
+  },
+  {
+    "name": "toiukotoda",
+    "trans": [
+      "〜そうだ / 〜と言っていました。\n伝聞表現で「～そうだ」や「～と言っていました」よりも少し硬い表現。改まった場面で使われることが多い。\n「〜とのことだ」で置き換えられる。\n[英訳]\nI hear that\n(Used to express hearsay)"
+    ],
+    "notation": "ということだ"
+  },
+  {
+    "name": "toiuyorimo",
+    "trans": [
+      "〜という言い方よりも、むしろ〜\n前件と後件を比較して前件よりも後件のほうが近い、当たっていると言いたい時に使う。\n[英訳]\nrather than"
+    ],
+    "notation": "というよりも"
+  },
+  {
+    "name": "toittemo",
+    "trans": [
+      "～というけれども、実際は・・・。\n〜から考えられるものと実際が違うことを表現するときに使う。\n[英訳]\nThough ~ , (The reality is different from what should be expected from ~.)"
+    ],
+    "notation": "といっても"
+  },
+  {
+    "name": "tousu",
+    "trans": [
+      "最後まで〜する / ずっと〜する"
+    ],
+    "notation": "通す(とうす)"
+  },
+  {
+    "name": "toorini",
+    "trans": [
+      "〜と同じに\n[英訳]\nas / same as"
+    ],
+    "notation": "とおりに"
+  },
+  {
+    "name": "toka",
+    "trans": [
+      "〜や〜など\n例を複数挙げて言う時に使う。\n[英訳]\nUsed when saying several nouns as an example of something."
+    ],
+    "notation": "とか"
+  },
+  {
+    "name": "toshitara",
+    "trans": [
+      "〜と仮定したら / もし〜が実際に起こったと仮定したら\n[英訳]\nSubjunctive condition."
+    ],
+    "notation": "としたら"
+  },
+  {
+    "name": "toshitemo",
+    "trans": [
+      "もし仮に〜が起こったという場合でも\n前件の条件が成立しても、後件の条件には影響しないということを表す。"
+    ],
+    "notation": "としても"
+  },
+  {
+    "name": "totan",
+    "trans": [
+      "\"〜するとすぐに / 〜と同時に\"\n予期しないというニュアンスの内容が後ろに続く\n[英訳]\nFollowed by a remark indicating unexpectedness or surprise."
+    ],
+    "notation": "とたん"
+  },
+  {
+    "name": "tochuu de",
+    "trans": [
+      "〜をしているときに\n動作やイベントが始まってから、終わるまでの間を表す。\n[英訳]\nin the middle of"
+    ],
+    "notation": "途中(とちゅう)で"
+  },
+  {
+    "name": "tochuu ni",
+    "trans": [
+      "〜をしているときに\n動作やイベントが始まってから、終わるまでの間を表す。\n[英訳]\nin the middle of"
+    ],
+    "notation": "途中(とちゅう)に"
+  },
+  {
+    "name": "toshitatte",
+    "trans": [
+      "もし仮に〜が起こったという場合でも\n前件の条件が成立しても、後件の条件には影響しないということを表す。"
+    ],
+    "notation": "としたって"
+  },
+  {
+    "name": "tonokotoda",
+    "trans": [
+      "〜そうだ / 〜と言っていました / 〜と聞きました\n伝聞表現の１つ。\n[英訳]\nI hear that\n(Used to express hearsay)"
+    ],
+    "notation": "とのことだ"
+  },
+  {
+    "name": "toha kagira nai",
+    "trans": [
+      "必ず～になるとは言えない。例外もある。部分否定の表現。"
+    ],
+    "notation": "とは限ら(かぎら)ない"
+  },
+  {
+    "name": "tomieru",
+    "trans": [
+      "〜らしい / 〜ようだ\n推量表現。根拠に基づき、「〜らしい/〜ようだ」と言いたいときに使う。"
+    ],
+    "notation": "とみえる"
+  },
+  {
+    "name": "naa",
+    "trans": [
+      "自分の気持ちを強調したり、気持ちを感情的に表現したい時に使われる。\n独りごとでも使われる。\n[英訳]\nGenerally used to state one’s feeling emphatically or one’s wish emotively."
+    ],
+    "notation": "なあ"
+  },
+  {
+    "name": "naosu",
+    "trans": [
+      "もう一度〜する\n[英訳]\ndo something again"
+    ],
+    "notation": "直す(なおす)"
+  },
+  {
+    "name": "nado",
+    "trans": [
+      "〜にようなものは / 〜なようなことは\n①例を挙げる時に使う\n②謙遜する時に使う\n③相手を軽視する時に使う。\n[英訳]\nlike"
+    ],
+    "notation": "など"
+  },
+  {
+    "name": "nanka",
+    "trans": [
+      "〜にようなものは / 〜なようなことは\n①例を挙げる時に使う\n②謙遜する時に使う\n③相手を軽視する時に使う。\n[英訳]\nlike"
+    ],
+    "notation": "なんか"
+  },
+  {
+    "name": "nioite",
+    "trans": [
+      "場所・場面・状況・分野・方面に関して使われる。\n「〜で」とだいたい同じ意味。改まった書き言葉で使われるので、日常的なことでは使わない。\n[英訳]\nat, in\nSame meaning as \"〜で\", but being formal written form, is not used in everyday language."
+    ],
+    "notation": "において"
+  },
+  {
+    "name": "niokeru",
+    "trans": [
+      "場所・場面・状況・分野・方面に関して使われる。\n「〜で」とだいたい同じ意味。改まった書き言葉で使われるので、日常的なことでは使わない。\n[英訳]\nat, in\nSame meaning as \"〜で\", but being formal written form, is not used in everyday language."
+    ],
+    "notation": "における"
+  },
+  {
+    "name": "ni kagiru",
+    "trans": [
+      "～が一番いい\n話し手が主観的に一番いいと思っているもの・ことを主張するときに使う。\n[英訳]\nthe best"
+    ],
+    "notation": "に限る(かぎる)"
+  },
+  {
+    "name": "nikaketeha",
+    "trans": [
+      "\"〜についていうと、他よりも上手だ（すごい、自信がある etc）。\"\nある分野における技術や知識が他の者よりも優れていることを表す。\n後ろには評価を表す表現が使われる。\n[英訳]\nThis sentence pattern is used when the speaker boats about his/her ability, or praises someone else's. So expression of evaluation often follow this pattern."
+    ],
+    "notation": "にかけては"
+  },
+  {
+    "name": "ni kawa tte",
+    "trans": [
+      "〜と入れ替わって / 〜の代理として\n[英訳]\nInstead of"
+    ],
+    "notation": "に代わ(かわ)って"
+  },
+  {
+    "name": "ni kanshi te",
+    "trans": [
+      "～について\n[英訳]\nabout / regarding"
+    ],
+    "notation": "に関し(かんし)て"
+  },
+  {
+    "name": "ni kima tteiru",
+    "trans": [
+      "きっと〜だ / 絶対に〜だ\n話し手が強い確信を持っているときに使う推量表現。\n[英訳]\ndefinite"
+    ],
+    "notation": "に決ま(きま)っている"
+  },
+  {
+    "name": "ni kurabe te",
+    "trans": [
+      "〜より\n初級で勉強する比較表現「〜より」と置き換えが可能。「〜に比べると」という言い方もある。\n[英訳]\ncompared to ~"
+    ],
+    "notation": "に比べ(くらべ)て"
+  },
+  {
+    "name": "nishitagatte",
+    "trans": [
+      "\"〜すると、だんだん\"\n前件の変化に対応して、後件も変化するということを表す。\nそのため、変化を表現する言葉が使われる。\n[英訳]\nas, in proportion to"
+    ],
+    "notation": "にしたがって"
+  },
+  {
+    "name": "nishitemo",
+    "trans": [
+      "〜でも〜でも、どちらの場合でも・・・\n「〜」には対立する２つのもの、あるいは同ジャンルの２つのものが来る。"
+    ],
+    "notation": "にしても"
+  },
+  {
+    "name": "ni taishi te",
+    "trans": [
+      "〜に / 〜を相手として\n[英訳]\ntoward"
+    ],
+    "notation": "に対し(たいし)て"
+  },
+  {
+    "name": "ni chigai nai",
+    "trans": [
+      "きっと〜と思う。〜に決まっている。\n[英訳]\nno doubt"
+    ],
+    "notation": "に違い(ちがい)ない"
+  },
+  {
+    "name": "nitsuite",
+    "trans": [
+      "〜のことを\n話す・聞く・考える・書く・調べるなどの行為の対象を言う時に使う表現。\n[英訳]\nabout"
+    ],
+    "notation": "について"
+  },
+  {
+    "name": "nitsurete",
+    "trans": [
+      "〜すると、少しずつ\n[英訳]\nas, in proportion to"
+    ],
+    "notation": "につれて"
+  },
+  {
+    "name": "nitotte",
+    "trans": [
+      "〜の立場から考えると / 〜の視点で言うと\n[英訳]\nFrom the standpoint of 〜. Preceded by content with judgement or evaluation."
+    ],
+    "notation": "にとって"
+  },
+  {
+    "name": "niha",
+    "trans": [
+      "〜するために\n目的を表す。"
+    ],
+    "notation": "には"
+  },
+  {
+    "name": "ni hanshi te",
+    "trans": [
+      "〜とは反対に、逆に\n[英訳]\ncontrary to"
+    ],
+    "notation": "に反し(はんし)て"
+  },
+  {
+    "name": "ni hansu ru",
+    "trans": [
+      "〜とは反対に、逆に\n[英訳]\ncontrary to"
+    ],
+    "notation": "に反す(はんす)る"
+  },
+  {
+    "name": "niyotte",
+    "trans": [
+      "〜が原因で。\n[英訳]\nbecause of / owing to / due to"
+    ],
+    "notation": "によって"
+  },
+  {
+    "name": "niyotteha",
+    "trans": [
+      "ある〜の場合は・・・こともある。"
+    ],
+    "notation": "によっては"
+  },
+  {
+    "name": "niyoruto",
+    "trans": [
+      "\"〜では\"\n情報源や判断の元を表す\n[英訳]\naccording to"
+    ],
+    "notation": "によると"
+  },
+  {
+    "name": "niwatatte",
+    "trans": [
+      "〜の全体に及んで\nある行為や状態がその範囲全体に及んでいる様子を表す表現。\n[英訳]\nthroughout the entire"
+    ],
+    "notation": "にわたって"
+  },
+  {
+    "name": "nodeshouka",
+    "trans": [
+      "話し手が疑問に思うことを丁寧に問いかける表現。\n[英訳]\nUsed when someone ask a question in a polite way"
+    ],
+    "notation": "のでしょうか"
+  },
+  {
+    "name": "ndeshouka",
+    "trans": [
+      "話し手が疑問に思うことを丁寧に問いかける表現。\n[英訳]\nUsed when someone ask a question in a polite way"
+    ],
+    "notation": "んでしょうか"
+  },
+  {
+    "name": "ha",
+    "trans": [
+      "２つの物を比較する表現。\n[英訳]\n\"A is more ~ than B.\"\nAn expression that compares two things."
+    ],
+    "notation": "は"
+  },
+  {
+    "name": "baai",
+    "trans": [
+      "起こりうる可能性の中から１つの事態を取り上げて、その事態が起きた時に必要な対応を述べる表現。"
+    ],
+    "notation": "場合(ばあい)"
+  },
+  {
+    "name": "bakarinaku",
+    "trans": [
+      "～だけでなく\n[英訳]\nnot only, but"
+    ],
+    "notation": "ばかりなく"
+  },
+  {
+    "name": "hazuganai",
+    "trans": [
+      "～は考えられない / 絶対に〜でない\n話し手が確信を持って、「〜ではない」と言う時に使う表現。可能性を完全に否定する。\n強い否定を表す。「～はずがない」と置き換えが可能\n[英訳]\nshould not be the case"
+    ],
+    "notation": "はずがない"
+  },
+  {
+    "name": "ba",
+    "trans": [
+      "XばY：Xという条件が成立すると、Yが起こることを表す。\n[英訳]\n\"if X then Y\"\nIf condition X is met, then Y will happen."
+    ],
+    "notation": "ば"
+  },
+  {
+    "name": "noni",
+    "trans": [
+      "〜けれど\n「当然〜だろう」と予想される事柄とは違った結果になったことを表す。話の手の驚きや不満などの気持ちが含まれる。\n[英訳]\n\"… despite of the 〜\"\nOften used to show the speaker’s dissatisfaction, regret or feeling that something is unexpected."
+    ],
+    "notation": "のに"
+  },
+  {
+    "name": "ha wakato shite",
+    "trans": [
+      "〜は考えないで / 〜は含めないで"
+    ],
+    "notation": "は別と(わかと)して"
+  },
+  {
+    "name": "hamochiron",
+    "trans": [
+      "〜は当然として"
+    ],
+    "notation": "はもちろん"
+  },
+  {
+    "name": "buri",
+    "trans": [
+      "〜という長い時間を経て"
+    ],
+    "notation": "ぶり"
+  },
+  {
+    "name": "furiwosuru",
+    "trans": [
+      "「〜にように振舞う / 〜のように見せる」\n実際は違うが、そうであるように振舞う様子を表す。\n[英訳]\n\"to pretend\"\nIt is a way of acting as if you are, when in fact you are not."
+    ],
+    "notation": "ふりをする"
+  },
+  {
+    "name": "bekida",
+    "trans": [
+      "〜した方がいい / 〜するのが当然だ\n常識的に〜するのが当然だと言う時に使う。\n[英訳]\nshould"
+    ],
+    "notation": "べきだ"
+  },
+  {
+    "name": "bekidehanai",
+    "trans": [
+      "〜した方がいい / 〜するのが当然だ\n常識的に〜するのが当然だと言う時に使う。\n[英訳]\nshould"
+    ],
+    "notation": "べきではない"
+  },
+  {
+    "name": "bekidatta",
+    "trans": [
+      "〜すればよかった  / 〜したほうがよかった\n〜するのが当然だったが、実際にはしなかったと言う時に使う表現。\n[英訳]\nshould"
+    ],
+    "notation": "べきだった"
+  },
+  {
+    "name": "bekidehanakatta",
+    "trans": [
+      "〜すればよかった  / 〜したほうがよかった\n〜するのが当然だったが、実際にはしなかったと言う時に使う表現。\n[英訳]\nshould"
+    ],
+    "notation": "べきではなかった"
+  },
+  {
+    "name": "hodo",
+    "trans": [
+      "\"XはYほど〜ない\"で、XもYも同じぐらい～であるが、比べるとXはYよりは程度が低いことを表す。\n[英訳]\nX is not as ~ as Y."
+    ],
+    "notation": "ほど"
+  },
+  {
+    "name": "hanai",
+    "trans": [
+      "〜が一番いい。\n話し手が主観的に「最高だ」、「一番いい」と強調して言いたい時に使う。\nそのため、客観的な事実については使えない。\n誤用例\n× エベレストほど高い山はない。\n→ エベレストが世界で一番高い山だ。\n[英訳]\nthe best"
+    ],
+    "notation": "はない"
+  },
+  {
+    "name": "marude",
+    "trans": [
+      "他の物に例える表現（比喩）。\n[英訳]\nas if it were like / as if it were similar to\nUsed to like one thing to something else."
+    ],
+    "notation": "まるで"
+  },
+  {
+    "name": "muke ni",
+    "trans": [
+      "〜のために / 〜を対象に / 〜に適するように\n[英訳]\nfor"
+    ],
+    "notation": "向け(むけ)に"
+  },
+  {
+    "name": "mo",
+    "trans": [
+      "数量が多いことを表す。\n話し手の驚きの気持ちが含まれる。\n[英訳]\n\"as many as\"\nIndicates a large quantity.\nContains the speaker's feeling of surprise."
+    ],
+    "notation": "も"
+  },
+  {
+    "name": "youganai",
+    "trans": [
+      "\"〜できない / 〜したくても手段がない\"\n不可能であることを強調して言う時に使う。"
+    ],
+    "notation": "ようがない"
+  },
+  {
+    "name": "youtosuru",
+    "trans": [
+      "① ～しようと思って、そのことを始める直前の状態であることを表す\n② 〜しようと努力している様子を表す。\n[英訳]\ntry to / attempt to do"
+    ],
+    "notation": "ようとする"
+  },
+  {
+    "name": "renyou chuushi",
+    "trans": [
+      "動詞文や、い形容詞文の接続のしかたの一つで、並列や理由を表す。\n行為の順序や対立する内容を表す際に使われる。\n「作り方」や「使い方」の説明でもよく使われる。\n書き言葉でよく使われる。"
+    ],
+    "notation": "連用(れんよう)中止(ちゅうし)"
+  },
+  {
+    "name": "wakeganai",
+    "trans": [
+      "～は考えられない / 絶対に〜でない\n話し手が確信を持って、「〜ではない」と言う時に使う表現。可能性を完全に否定する。\n[英訳]\n\"Be inconceivable / should not be the case\"\nAn expression used when the speaker says “not” with certainty. It denies the possibility completely."
+    ],
+    "notation": "わけがない"
+  },
+  {
+    "name": "wakeda",
+    "trans": [
+      "① ・・・なのだから当然～という結果になる。/ だから～になるのか。\nある事実や状況から、当然そうなることを説明したり、説明を聞いてよくわかったときに使う。\n② ・・・なので、〜ということだね\n相手が言ったことや意見などを反復したり、再度確認するときに使う表現。\n[英訳]\n① that's why / no wonder\n② so you mean"
+    ],
+    "notation": "わけだ"
+  },
+  {
+    "name": "toiuwakeda",
+    "trans": [
+      "① ・・・なのだから当然～という結果になる。/ だから～になるのか。\nある事実や状況から、当然そうなることを説明したり、説明を聞いてよくわかったときに使う。\n② ・・・なので、〜ということだね\n相手が言ったことや意見などを反復したり、再度確認するときに使う表現。\n[英訳]\n① that's why / no wonder\n② so you mean"
+    ],
+    "notation": "というわけだ"
+  },
+  {
+    "name": "wakedehanai",
+    "trans": [
+      "全部が〜とは言えない。\n部分否定の「〜というものではない」と同じ意味で使われる。\nまた、直前のことから当然予想されることを婉曲的に否定するのにも用いられる。\n関連記事【JLPT N2】文法・\n例文\n：〜というものではない2018.5.8文型：〜というものではない 〜とは言えない。部分否定の「〜わけではない」と同じ意味で使われる。 普通形 + というものではない Na・Nだ  + というものではない N2\n例文\nスポーツはただ練習すればできるようになるというものではない。 ・外国語はただ文法を覚えれば話せるというものではない。 ・...\n[英訳]\nIt is not that ~ / not  necessarily / not always\nUsed to express partial negation, Also used to euphemistically deny what could naturally be expected from what is mentioned just before.)"
+    ],
+    "notation": "わけではない"
+  },
+  {
+    "name": "wakejanai",
+    "trans": [
+      "全部が〜とは言えない。\n部分否定の「〜というものではない」と同じ意味で使われる。\nまた、直前のことから当然予想されることを婉曲的に否定するのにも用いられる。\n関連記事【JLPT N2】文法・\n例文\n：〜というものではない2018.5.8文型：〜というものではない 〜とは言えない。部分否定の「〜わけではない」と同じ意味で使われる。 普通形 + というものではない Na・Nだ  + というものではない N2\n例文\nスポーツはただ練習すればできるようになるというものではない。 ・外国語はただ文法を覚えれば話せるというものではない。 ・...\n[英訳]\nIt is not that ~ / not  necessarily / not always\nUsed to express partial negation, Also used to euphemistically deny what could naturally be expected from what is mentioned just before.)"
+    ],
+    "notation": "わけじゃない"
+  },
+  {
+    "name": "wakenihaikanai",
+    "trans": [
+      "①～したい気持ちはあるが理由があって～できない\n②〜しなければならない / 〜するのが当然だ"
+    ],
+    "notation": "わけにはいかない"
+  },
+  {
+    "name": "warini",
+    "trans": [
+      "～と思えないくらい / ～とは不釣り合いに\nこの程度のレベルかなと思っていたのに、実際にはそれよりもよかった、あるいは悪かった時に使う。程度の差には幅がある。\n[英訳]\nconsidering"
+    ],
+    "notation": "わりに"
+  },
+  {
+    "name": "wo kome te",
+    "trans": [
+      "〜を入れて / 〜と一緒に\n気持ちや力などを入れて何かをするという意味\n[英訳]\nwith"
+    ],
+    "notation": "を込め(こめ)て"
+  },
+  {
+    "name": "wo chuushin ni",
+    "trans": [
+      "〜を基点にして / 〜を集中的に\n[英訳]\nWith 〜 as the base point."
+    ],
+    "notation": "を中心(ちゅうしん)に"
+  },
+  {
+    "name": "wo toushi te",
+    "trans": [
+      "～を手段として / 〜を媒介として"
+    ],
+    "notation": "を通し(とうし)て"
+  },
+  {
+    "name": "wo tsuuji te",
+    "trans": [
+      "～を手段として / 〜を媒介として"
+    ],
+    "notation": "を通じ(つうじ)て"
+  },
+  {
+    "name": "kan",
+    "trans": [
+      "〜の期間ずっと\n[英訳]\nwhile / during"
+    ],
+    "notation": "間(かん)"
+  },
+  {
+    "name": "mani",
+    "trans": [
+      "〜の期間に・・・する。\n※ずっと〜するのではない。\n[英訳]\n・・ take place, while 〜"
+    ],
+    "notation": "間に(まに)"
+  },
+  {
+    "name": "owa ru",
+    "trans": [
+      "動作の終わりを表す。\n[英訳]\n\"finish doing\"\nIndicates the end of an action."
+    ],
+    "notation": "終わ(おわ)る"
+  },
+  {
+    "name": "gasuru",
+    "trans": [
+      "音、声、味、匂い、香り、感じなど感覚を表したいときの言い方。\n[英訳]\n\"can hear / see / smell etc (noun).\"\nUsed to express the notion that the speaker can perceive a sound, voice, taste, smell, fragrance or feeling."
+    ],
+    "notation": "がする"
+  },
+  {
+    "name": "kadouka",
+    "trans": [
+      "間接疑問文。\n文の中に疑問詞を使っていない疑問文を埋め込んで使う表現。"
+    ],
+    "notation": "かどうか"
+  },
+  {
+    "name": "kamoshirenai",
+    "trans": [
+      "〜の可能性がある\n話し手が推測したことを言う表現。「〜でしょう / だろう」に比べ、判断の根拠が薄く、不確かな推量である。\n[英訳]\n\"maybe / perhaps\"\nIndicates that there is a possibility.\nAn expression in which the speaker says what he or she guesses. It is an uncertain guess with less basis for judgment than ”〜でしょう / 〜だろう”"
+    ],
+    "notation": "かもしれない"
+  },
+  {
+    "name": "kotogaaru",
+    "trans": [
+      "いつもではないが、時々〜する\n[英訳]\nsometimes do"
+    ],
+    "notation": "ことがある"
+  },
+  {
+    "name": "kotonisuru",
+    "trans": [
+      "\"〜すると決める\"\n自分の意志で〜する、〜しないと決めたことを言う時に使う。\n[英訳]\ndecide to do\nUsed to say that you have decided to do or not to do something of your own volition."
+    ],
+    "notation": "ことにする"
+  },
+  {
+    "name": "kotoninaru",
+    "trans": [
+      "\"〜することに決まる\"\n①自分の意志に関係なく予定や計画が決まることを表す。\n②自分の意志で決めたことを婉曲的に言いたい時にも使う。\n[英訳]\nsomething has been decided"
+    ],
+    "notation": "ことになる"
+  },
+  {
+    "name": "sasetekudasai",
+    "trans": [
+      "「〜させてほしい」と相手に頼むときに使う表現。\n相手が許可することを確信して使う場合が多い。\n[英訳]\n\"Please let me do\"\nAn expression used to ask someone , “Please let me do 〜”\nThis is often used with confidence that the other person will allow it."
+    ],
+    "notation": "させてください"
+  },
+  {
+    "name": "shika",
+    "trans": [
+      "「〜だけ」\n期待していたよりも程度が低いと感じた時や、量が少ないと感じた時に使う表現。\n[英訳]\n\"only\"\nAn expression used when you feel that the degree or amount of something is less than you expected."
+    ],
+    "notation": "しか"
+  },
+  {
+    "name": "shi",
+    "trans": [
+      "①並立描写\n複数の事柄を並べて述べる表現。話し手の「さらに」、「その上」という気持ちが含まれる。人や物を評価するときによく使われる。\n②理由の列挙\n理由を複数の上げ、最後に結論を述べる表現。\n理由を１つだけ言う時もこの文型が使えるが、「言っていないだけで、他にも理由がある」というニュアンがある。\n[英訳]\nand besides / because A and B"
+    ],
+    "notation": "し"
+  },
+  {
+    "name": "sugiru",
+    "trans": [
+      "非常に〜だ。\n程度が水準を超えていることを表す。\n[英訳]\n\"too much\"\nIndicates that the degree exceeds the level."
+    ],
+    "notation": "すぎる"
+  },
+  {
+    "name": "suru",
+    "trans": [
+      "対象をある状態に変化させることを表す文型\n[英訳]\nmake it 形容詞"
+    ],
+    "notation": "する"
+  },
+  {
+    "name": "soudesu",
+    "trans": [
+      "見たり、聞いた情報を他の人に伝えるときに使われる表現。\n[英訳]\n\"I heard\"\nExpressions used to convey information you have seen or heard from others."
+    ],
+    "notation": "そうです"
+  },
+  {
+    "name": "dasu",
+    "trans": [
+      "① 動作の開始を表す。\n② 中や隠れたところから外へ移動することを表す。\n③ 存在しなかったものを新たに作ったり出現させることを表す（創出・創造）。"
+    ],
+    "notation": "出す(だす)"
+  },
+  {
+    "name": "tabakari",
+    "trans": [
+      "ちょっと前に〜が終わった、〜をした。\n動作が終わってからの時間が短いことを言いたい時に使う。\n[英訳]\n\"have just done\""
+    ],
+    "notation": "たばかり"
+  },
+  {
+    "name": "taraiidesuka",
+    "trans": [
+      "相手に指示を求める時に使う表現。\n「Vたらどうですか」と形が似ているので、注意。\n[英訳]\nUsed when the speaker seeks instructions from listener"
+    ],
+    "notation": "たらいいですか"
+  },
+  {
+    "name": "taradoudesuka",
+    "trans": [
+      "相手にある行動をするように提案する言い方。\n「たほうがいい」よりも直接的な提案。\n[英訳]\n\"Why don't you ~ / how about if you ~\"\nA way of suggesting that the other person do a certain action.\nA more direct suggestion than \"～たほうがいい\""
+    ],
+    "notation": "たらどうですか"
+  },
+  {
+    "name": "tsuzuke ru",
+    "trans": [
+      "動作や習慣の継続を表す。\n[英訳]\n\"keep on / continue to do\"\nIndicates the continuation of an action or habit."
+    ],
+    "notation": "続け(つづけ)る"
+  },
+  {
+    "name": "tte",
+    "trans": [
+      "人や物の名前をいう時に使う表現。\n話し言葉。「〜っていう」とも言える。\n書き言葉は「〜という」。\n[英訳]\nnamed / called"
+    ],
+    "notation": "って"
+  },
+  {
+    "name": "te",
+    "trans": [
+      "理由や原因を表す。\n[英訳]\nbecause"
+    ],
+    "notation": "て"
+  },
+  {
+    "name": "tearu",
+    "trans": [
+      "誰かが何か目的があってその行為を行い、その行為の結果が残っていることを表す文型。\n[英訳]\nsomebody has done something intentionally and that state continues."
+    ],
+    "notation": "てある"
+  },
+  {
+    "name": "teiku",
+    "trans": [
+      "① 今を基準とした、今後の推移や変化を表す。\n② Vの方向が話し手から離れていくことを表す。\n[英訳]① Used to show, based on the present situation, how things will change in the future.\n② Used to indicate that the direction of V is away from the speaker."
+    ],
+    "notation": "ていく"
+  },
+  {
+    "name": "teoku",
+    "trans": [
+      "① 何かの目的のために、前もって～する（準備）。\n② 何もしないで、そのままの状態を維持する（放置・現状維持）。\n[英訳]\n① do something in advance\n② leave something undone"
+    ],
+    "notation": "ておく"
+  },
+  {
+    "name": "teitadakemasenka",
+    "trans": [
+      "丁寧にお願いする表現\n[英訳]\n\"please do something for me.\"\nUsed to when you request someone to do something in a polite way."
+    ],
+    "notation": "ていただけませんか"
+  },
+  {
+    "name": "tekuru",
+    "trans": [
+      "一時的に用事で他の場所へ移動し、用事を済ませ戻って来ることを表す。\n[英訳]\nTo leave somewhere for temporary time for trivial purpose."
+    ],
+    "notation": "てくる"
+  },
+  {
+    "name": "deshou",
+    "trans": [
+      "相手に確認したり、同意を求める表現\n[英訳]\n\"right\"\n“でしょう？” is used to seek the listener’s confirmation or agreement."
+    ],
+    "notation": "でしょう"
+  },
+  {
+    "name": "temiru",
+    "trans": [
+      "いいかどうかわからないので実際に行動して確かめる\n[英訳]\ntry doing something"
+    ],
+    "notation": "てみる"
+  },
+  {
+    "name": "to",
+    "trans": [
+      "ある動作を行うと、必ず、別のことがらや作用が続いて起こることを表す。\n機械の使い方や道順の説明によく使われる。\n[英訳]\nwhenever A happens, B also happens."
+    ],
+    "notation": "と"
+  },
+  {
+    "name": "tokoroda",
+    "trans": [
+      "① ある動作が始まる直前を表す。これから〜する。\n② ある動作が今、まさに行われている最中であることを表す。\n③ ある動作が終わった直後を表す。たった今〜した。"
+    ],
+    "notation": "ところだ"
+  },
+  {
+    "name": "toiu",
+    "trans": [
+      "聞き手が知らないであろう物・人・場所などの名前を言う時に使う。\n[英訳]\n…called / …named"
+    ],
+    "notation": "という"
+  },
+  {
+    "name": "nakanaka",
+    "trans": [
+      "① 簡単には〜できない\n② 〜するには時間がかかる\n[英訳]\nnot easily"
+    ],
+    "notation": "なかなか"
+  },
+  {
+    "name": "nasai",
+    "trans": [
+      "命令・指示を表す。\n[英訳]\ndo it"
+    ],
+    "notation": "なさい"
+  },
+  {
+    "name": "nara",
+    "trans": [
+      "① 相手が話題にしたことを取り上げて、それに関してアドバイスしたり、リクエストしたりする時に使われる表現\n② 相手の言ったことを話題に取り上げて述べる表現\n③ 限定や対照を表す。「他は〜ではないが、ある１つのものや事柄に関して言うと〜だ」という意味。"
+    ],
+    "notation": "なら"
+  },
+  {
+    "name": "nikui",
+    "trans": [
+      "①〜するのが難しい\n②なかなか〜しない（性質）\n[英訳]\ndifficult to do"
+    ],
+    "notation": "にくい"
+  },
+  {
+    "name": "nisuru",
+    "trans": [
+      "色々ある選択肢の中から、１つを選んで決めるときに使う。\n[英訳]\n\"decide on\"\nUsed to decide on one out of the various options."
+    ],
+    "notation": "にする"
+  },
+  {
+    "name": "node",
+    "trans": [
+      "理由・原因を言う時に使う。\n[英訳]\nbecause\nUsed to say the reason or cause.\n\"ので\" sounds more formal than \"から\""
+    ],
+    "notation": "ので"
+  },
+  {
+    "name": "noha",
+    "trans": [
+      "強調構文。\n後件の内容を強く言いたい時に使う表現。この文型を使うことで、文全体の主張が強まる\n[英訳]\nIt is 〜 that 〜. / The reason 〜 is because 〜\n(Used to focus on the latter part of the sentence.)"
+    ],
+    "notation": "のは"
+  },
+  {
+    "name": "ga",
+    "trans": [
+      "２つの物や事柄を対比して言う時に助詞「は」が使われる。\n[JLPT レベル]\nN4\n例文\n日本に来たときは寂しかったですが、今は友達もできて楽しくなりました。\n日本語の会話練習は好きですが、漢字の練習は嫌いです。\nトムさんにはバレンタインのチョコをあげたけど、ジェームスさんにはあげなかった。\n日本に来てから京都へは行きましたが、東京へはまだ行っていません。\n時給は安いですが、この仕事は楽しいです。\n英語ははわかりますが、中国語はわかりません。\n犬は好きですが、猫はあまり好きじゃありません。"
+    ],
+    "notation": "が"
+  },
+  {
+    "name": "bakari",
+    "trans": [
+      "同じ物がたくさんある、同じことを何度もするという意味を表す。 マイナスの意味で使われることが多い。"
+    ],
+    "notation": "ばかり"
+  },
+  {
+    "name": "hazuda",
+    "trans": [
+      "理由があって、絶対に〜だと思う。\n[英訳]\nmust / be supposed to be the case"
+    ],
+    "notation": "はずだ"
+  },
+  {
+    "name": "hajime ru",
+    "trans": [
+      "動作や現象の開始を表す。\n[英訳]\n\"start to / begin to\"\nIndicates the beginning of an action or phenomenon."
+    ],
+    "notation": "始め(はじめ)る"
+  },
+  {
+    "name": "hitsuyou gaaru",
+    "trans": [
+      "〜しなければならない\nある目標や目的を達成するためには、〜しなければならないという意味。\n[英訳]\n\"It is necessary to / need to do\"\nThis sentence pattern is used to indicate that the necessity of doing something."
+    ],
+    "notation": "必要(ひつよう)がある"
+  },
+  {
+    "name": "hougaii",
+    "trans": [
+      "〜すること（しないこと）を、相手に助言する表現。\nそうしなかったら悪いことが起こると助言や忠告をするときに使う。\n[英訳]\n\"had better\"\nExpress an advice or recommendation.\nUsed to advise or giving warning that something bad will happen if you don't."
+    ],
+    "notation": "ほうがいい"
+  },
+  {
+    "name": "mada",
+    "trans": [
+      "動作やイベントが終わっていないことを表す（未完了）。\n[英訳]\n\"not yet\"\nIndicates that the action or event has not been completed."
+    ],
+    "notation": "まだ"
+  },
+  {
+    "name": "teinai",
+    "trans": [
+      "動作やイベントが終わっていないことを表す（未完了）。\n[英訳]\n\"not yet\"\nIndicates that the action or event has not been completed."
+    ],
+    "notation": "ていない"
+  },
+  {
+    "name": "madeni",
+    "trans": [
+      "その時間や日付が来る前に\n[英訳]\n“までに” indicates “time limit”.\nUsed when talking about doing something within a given time period."
+    ],
+    "notation": "までに"
+  },
+  {
+    "name": "mama",
+    "trans": [
+      "同じ状態が変わらずに続くことを表す。\n[英訳]\nwhile ~ (Used to show the same situation continues.)"
+    ],
+    "notation": "まま"
+  },
+  {
+    "name": "mitaida",
+    "trans": [
+      "\"〜と思う / 〜の感じがする\"\n五感を使って話し手が感じたこと、推量したことを言う表現\n[英訳]\nIt seems like"
+    ],
+    "notation": "みたいだ"
+  },
+  {
+    "name": "mitaina",
+    "trans": [
+      "具体的な例を挙げる時に使う\n[英訳]\nUsed to explain something by showing an example."
+    ],
+    "notation": "みたいな"
+  },
+  {
+    "name": "mitaini",
+    "trans": [
+      "具体的な例を挙げる時に使う\n[英訳]\nUsed to explain something by showing an example."
+    ],
+    "notation": "みたいに"
+  },
+  {
+    "name": "yasui",
+    "trans": [
+      "〜するのが簡単だ / 簡単に〜という状態になる\n[英訳]\neasy to do"
+    ],
+    "notation": "やすい"
+  },
+  {
+    "name": "youda",
+    "trans": [
+      "五感を使って話し手が感じたこと、推量したことを言う表現\n[英訳]\nIt seems like"
+    ],
+    "notation": "ようだ"
+  },
+  {
+    "name": "youto omou",
+    "trans": [
+      "話し手が発話の時点で考えた計画や決心を述べる時に使う表現。\n[英訳]\nThis sentence pattern is used to talk about the speaker’s determinations or plans."
+    ],
+    "notation": "ようと思う(おもう)"
+  },
+  {
+    "name": "youto omotte iru",
+    "trans": [
+      "話し手の意思や計画を伝える時に使う表現。\n[英訳]\nUsed to talk about the speaker’s determinations or plans."
+    ],
+    "notation": "ようと思って(おもって)いる"
+  },
+  {
+    "name": "youna",
+    "trans": [
+      "具体的な例を挙げる時に使う\n[英訳]\nUsed to explain something by showing an example."
+    ],
+    "notation": "ような"
+  },
+  {
+    "name": "youni",
+    "trans": [
+      "目標を実現させるために〜する\n[英訳]\nso that / in order to"
+    ],
+    "notation": "ように"
+  },
+  {
+    "name": "younishiteiru",
+    "trans": [
+      "習慣的にしていることをいう表現"
+    ],
+    "notation": "ようにしている"
+  },
+  {
+    "name": "younisuru",
+    "trans": [
+      "〜ように 努力する/ 頑張って〜する\n話し手が意識的に頑張って〜すると決めて、それを述べる時に使う。\n[英訳]\nto make a conscious effort to do something"
+    ],
+    "notation": "ようにする"
+  },
+  {
+    "name": "youninaru",
+    "trans": [
+      "以前は〜じゃないが、今は〜である。\n状況や能力の変化を表す。\n●誤用例\n最近、運動不足なので、太るようになりました。\n[英訳]\nbecome such that"
+    ],
+    "notation": "ようになる"
+  },
+  {
+    "name": "yotei da",
+    "trans": [
+      "〜するつもりだ\nすでに決まったスケジュールを言うときに使われる。話し手の意志が含まれていないことにも使える。\n[英訳]\nUsed to say that an action/plan is scheduled to happen or be done."
+    ],
+    "notation": "予定(よてい)だ"
+  },
+  {
+    "name": "rashii",
+    "trans": [
+      "「そのものの典型的な性質を持っている」ということを表す表現。\n[英訳]\nActs just like~ is / typical of ~ / an epitome of"
+    ],
+    "notation": "らしい"
+  },
+  {
+    "name": "atode",
+    "trans": [
+      "〜してから\n前件の事柄が後件の事柄より先に起こること表す。\n[英訳]\n\"after\""
+    ],
+    "notation": "あとで"
+  },
+  {
+    "name": "gaichiban",
+    "trans": [
+      "比較する全てのもの（３つ以上）の中で、最も程度が高いことを表す。\n[英訳]\n\"the best\"\nIndicates the highest degree of all (three or more) that are compared."
+    ],
+    "notation": "がいちばん"
+  },
+  {
+    "name": "hou",
+    "trans": [
+      "〜をする方法\n[英訳]\nThe way of doing something / how to do"
+    ],
+    "notation": "方(ほう)"
+  },
+  {
+    "name": "ga hoshii",
+    "trans": [
+      "話し手の願望や希望などを表す文型。\n[英訳]\n\"want\"\nExpresses the speaker's desires or hopes."
+    ],
+    "notation": "が欲しい(ほしい)"
+  },
+  {
+    "name": "zehi",
+    "trans": [
+      "依頼や願望を強調して言う表現。\n[英訳]\n\"by all means / really\"\nAn expression that emphasizes a request or desire.\n[JLPT レベル]\nN5\n[備考]\n① 否定文と一緒には基本的に使わない。\n例：ぜひ来ないでください。\n② 人の行為に対して使うため、自然現象には使えない。\n例：明日は嫌いな運動会だから、ぜひ雨が降って欲しい。\n例文\nぜひ、今度うちへ遊びにきてください。\nPlease do come and visit us sometime.\n東京に来るときは、ぜひ連絡ください。\nPlease do contact me when you come to Tokyo.\n週末、パーティーをするので、ぜひ来てください。\nWe are having a party on the weekend, so please do come.\n彼女は結婚しても仕事を続けたいと言っているので、ぜひ続けてほしい。\nShe says she wants to continue working after marriage, so I hope she will.\nA：今度、一緒に京都へ行きませんか。色々な場所を案内しますよ。\nB：はい、ぜひ行きたいです。\nA: Would you like to go to Kyoto with me next time? I will show you many places.\nB: Yes, I'd love to go.\nA：一緒に映画を見に行きませんか。トムさんとジェームスさんも行きます。\nB：はい、ぜひ一緒に見に行きたいです。\nA: Why don't we go see a movie together? Tom and James will be there too.\nB: Yes, I'd love to go see a movie with you."
+    ],
+    "notation": "ぜひ"
+  },
+  {
+    "name": "de",
+    "trans": [
+      "手段・方法を表す。\n[英訳]\n\"by\"\nIndicates methods or means\n[JLPT レベル]\nN5\n類似文型\n〜で（手段・方法）"
+    ],
+    "notation": "で"
+  },
+  {
+    "name": "tekara",
+    "trans": [
+      "XてからY：Xを先に行い、それが終わったらYを行う。\n[英訳]\n\"and then / after\"\nThis expresses that X is done before Y."
+    ],
+    "notation": "てから"
+  },
+  {
+    "name": "tehaikenai",
+    "trans": [
+      "禁止や規制を表す。\n[英訳]\n\"must not\"\nIndicates a prohibition or regulation."
+    ],
+    "notation": "てはいけない"
+  },
+  {
+    "name": "temoiidesuka",
+    "trans": [
+      "許可を求める時に使う表現\n[英訳]\nMay I 〜? / Can I 〜?\nUsed for asking permission to do something."
+    ],
+    "notation": "てもいいですか"
+  },
+  {
+    "name": "douyatte",
+    "trans": [
+      "方法を尋ねる表現。\n[英訳]\nThis is used to ask the way how to do it.\n[JLPT レベル]\nN5"
+    ],
+    "notation": "どうやって"
+  },
+  {
+    "name": "to omou",
+    "trans": [
+      "意見を述べたり、推測したことを述べる表現。\n[英訳]\nI think\nThis is used to express the speaker’s conjecture or used when saying an opinion."
+    ],
+    "notation": "と思う(おもう)"
+  },
+  {
+    "name": "totemo",
+    "trans": [
+      "〜できない / 絶対に無理だ"
+    ],
+    "notation": "とても"
+  },
+  {
+    "name": "donna",
+    "trans": [
+      "人や物、場所の特徴について尋ねる文型\n[英訳]\n\"what kind of / what sort of\"\nUsed when you ask about the state or the character of a person, thing, etc."
+    ],
+    "notation": "どんな"
+  },
+  {
+    "name": "tai",
+    "trans": [
+      "行為の欲求や希望などを表す文型。\n[英訳]\n\"want to do\"\nUsed to express the speaker’s desire to do something."
+    ],
+    "notation": "たい"
+  },
+  {
+    "name": "tari",
+    "trans": [
+      "複数ある事柄の中から代表的なものを２、３挙げて言う表現。\n[英訳]\nV1 and V2"
+    ],
+    "notation": "たり"
+  },
+  {
+    "name": "toki",
+    "trans": [
+      "「AときB」Bの状態、動作の時間をAで表す時に使われる。\n「AときB」のAの動詞（V1）の時制は、主文の時制つまり「AときB」のBの動詞の時制（V2）とは関係がない。そのため、英語から日本語訳を考えると、使い方を間違える学生がいるので要注意である。\nV1の時制の考え方はV2がV1より先に行われるか、後に行われるかで決まる。V1がV2より先に行われる場合、V1は過去形（タ形）、V2より後に行われる場合は、V1は現在形（辞書形）になる。\n(例)\nWhen I leave the classroom, I turn off the light\n教室を出るとき、電気を消します。\nWhen I enter the classroom, I turn on the light.\n教室に入った時、電気をつけます。\n[英訳]\nwhen"
+    ],
+    "notation": "とき"
+  },
+  {
+    "name": "naide",
+    "trans": [
+      "Aをしない状態でBをする。\n[英訳]\nTo do B without doing A"
+    ],
+    "notation": "ないで"
+  },
+  {
+    "name": "naidekudasai",
+    "trans": [
+      "何かをしないように指示する表現。\n[英訳]\n\"please don't do / giving warning not to do\"\nUsed to ask someone not to do something."
+    ],
+    "notation": "ないでください"
+  },
+  {
+    "name": "nakutemoii",
+    "trans": [
+      "〜する必要がない。\n[英訳]\ndon't have to"
+    ],
+    "notation": "なくてもいい"
+  },
+  {
+    "name": "nakerebanaranai",
+    "trans": [
+      "〜する義務がある / 〜する必要がある\n[英訳]\nmust / have to\nUsed when the speaker says that it is necessary to do something or it must be done."
+    ],
+    "notation": "なければならない"
+  },
+  {
+    "name": "naru",
+    "trans": [
+      "状態の変化を表す。Aという状態が変わり、Bという状態に変化する。\n[英訳]\nbecome"
+    ],
+    "notation": "なる"
+  },
+  {
+    "name": "ni iku",
+    "trans": [
+      "その場所へ行く目的を表す。\n[英訳]\n\"go/come/go home (place) to do ~\"\nUsed to indicate the purpose of going to a specific place."
+    ],
+    "notation": "に行く(いく)"
+  },
+  {
+    "name": "kuru",
+    "trans": [
+      "その場所へ行く目的を表す。\n[英訳]\n\"go/come/go home (place) to do ~\"\nUsed to indicate the purpose of going to a specific place."
+    ],
+    "notation": "来る(くる)"
+  },
+  {
+    "name": "kaeru",
+    "trans": [
+      "その場所へ行く目的を表す。\n[英訳]\n\"go/come/go home (place) to do ~\"\nUsed to indicate the purpose of going to a specific place."
+    ],
+    "notation": "帰る(かえる)"
+  },
+  {
+    "name": "hadoudesuka",
+    "trans": [
+      "相手に意見や印象、感想など聞く時に使う。\n[英訳]\n\"How about / How is\"\nUsed to ask about the listener’s impression or opinion."
+    ],
+    "notation": "はどうですか"
+  },
+  {
+    "name": "mae ni",
+    "trans": [
+      "２つの行為のうち、どちらを先に行うかを表す時に使う表現。\n[英訳]\n\"before\"\nAn expression used to indicate which of two actions should be done first."
+    ],
+    "notation": "前(まえ)に"
+  },
+  {
+    "name": "mashou",
+    "trans": [
+      "①一緒に何かをするよう誘う表現（Let's）\n②誘いを受け入れる返事をする時にも使われる表現(例)\nA：今晩、飲みに行きませんか。B：行きましょう。\n[英訳]① An expression to invite someone to do something together.\n② Also used to reply to an invitation."
+    ],
+    "notation": "ましょう"
+  },
+  {
+    "name": "mashouka",
+    "trans": [
+      "手伝いを申し出る表現。\n[英訳]\n\"Shall I ~ ?\"\nUsed to offer to help for the listener."
+    ],
+    "notation": "ましょうか"
+  },
+  {
+    "name": "masenka",
+    "trans": [
+      "相手を誘う表現\n[英訳]\n\"Would you like to 〜 ? / Do you want to 〜 ?\"\nUsed to invite someone to do something."
+    ],
+    "notation": "ませんか"
+  },
+  {
+    "name": "mou",
+    "trans": [
+      "動作や出来事の完了を表す。\n[英訳]\n\"already done\"\nIndicates the completion of an action or event."
+    ],
+    "notation": "もう"
+  },
+  {
+    "name": "wokudasai",
+    "trans": [
+      "依頼表現。\nレストランで注文する時や、お店で商品する時などに使う。\n[英訳]\n\"please give me 〜\"\nA request expression. Used when ordering something at a restaurant, or when buying something at a store."
+    ],
+    "notation": "をください"
+  },
+  {
+    "name": "sugidesu",
+    "trans": [
+      "非常に〜だ。\n程度が水準を超えていることを表す。"
+    ],
+    "notation": "すぎです"
+  },
+  {
+    "name": "demo",
+    "trans": [
+      "～か、何か\nいくつかある選択肢の中から、１つ例を取り上げていう言い方。"
+    ],
+    "notation": "でも"
+  },
+  {
+    "name": "zurai",
+    "trans": [
+      "〜するのが難しい\n「〜にくい」と似た意味を持つが、「～辛い」という漢字から来ていることから「精神的、肉体的に負担に思う」という時に使う。よって、以下のように自然現象と関連する動詞を使うことはできない。\n例：この紙袋、丈夫で破れづらいよ。\n[英訳]\ndifficult to do something"
+    ],
+    "notation": "づらい"
+  },
+  {
+    "name": "nami",
+    "trans": [
+      "〜程度 / 〜と同じぐらい\n程度が同じぐらいであることを表す。"
+    ],
+    "notation": "並み(なみ)"
+  },
+  {
+    "name": "nikaketemo",
+    "trans": [
+      "\"〜にかかわるとしても\"\n「もし失敗したら〜を失う覚悟ができている」という話し手の強い態度を表す。"
+    ],
+    "notation": "にかけても"
+  },
+  {
+    "name": "makuru",
+    "trans": [
+      "とてもたくさん～する\n動作をたくさん繰り返したり、継続する様子。\n[英訳]\n\"do very much\"\nExpressed to repeat or continue an action a lot."
+    ],
+    "notation": "まくる"
+  },
+  {
+    "name": "yatsu",
+    "trans": [
+      "〜というもの\n物を詳しく説明するときに使う表現。\nカジュアルな言い方。"
+    ],
+    "notation": "やつ"
+  }
+]

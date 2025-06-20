@@ -7,23 +7,16 @@ import type React from 'react'
 export const FriendLinks: React.FC = () => {
   const links = [
     {
-      title: 'ez背单词',
-      href: 'https://ezbdc.dashu.ai',
-      imgSrc: ezbdc,
-      description: '一款极简的英文单词学习应用，可以非常方便高效地学习英文，具有有挑战性的单词背诵模式，无需注册，下载即用',
-    },
-    {
       title: 'Kai',
       href: 'https://kaiyi.cool/',
       imgSrc: kk,
-      description: 'Kai 的个人博客，记录了一些技术文章，生活感悟，以及一些有趣的小项目',
+      description: '原作者的个人博客，记录了一些技术文章，生活感悟，以及一些有趣的小项目',
     },
     {
-      title: 'Web Worker-前端程序员都爱听',
-      href: 'https://www.xiaoyuzhoufm.com/podcast/613753ef23c82a9a1ccfdf35',
-      imgSrc: web_worker,
-      description:
-        'Web Worker 播客是几个前端程序员闲聊的前端中文音频播客节目。节目围绕程序员领域瞎聊，聊资讯、聊职场、聊技术选型……只要是和 web 开发有关的都可以聊。',
+      title: 'kuhung.me',
+      href: 'https://kuhung.me',
+      imgSrc: kk,
+      description: 'kuhung 的个人博客，记录了一些技术文章，生活感悟，以及一些有趣的小项目',
     },
   ]
 
@@ -55,8 +48,8 @@ export const FriendLinks: React.FC = () => {
         </div>
         <div className="mt-auto pb-5 text-center text-sm text-gray-500">
           想要添加友链？请联系邮箱：
-          <a href="mailto:me@kaiyi.cool" className="text-blue-500">
-            me@kaiyi.cool
+          <a href="mailto:hi@kuhung.me" className="text-blue-500">
+            hi@kuhung.me
           </a>
         </div>
       </div>

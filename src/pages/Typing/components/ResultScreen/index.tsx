@@ -4,7 +4,6 @@ import { AuthorButton } from './AuthorButton'
 import ConclusionBar from './ConclusionBar'
 import RemarkRing from './RemarkRing'
 import WordChip from './WordChip'
-import styles from './index.module.css'
 import Tooltip from '@/components/Tooltip'
 import {
   currentChapterAtom,
@@ -23,10 +22,9 @@ import { useCallback, useContext, useEffect, useMemo } from 'react'
 import { useHotkeys } from 'react-hotkeys-hook'
 import { useNavigate } from 'react-router-dom'
 import IexportWords from '~icons/icon-park-outline/excel'
-import IconCoffee from '~icons/mdi/coffee'
-import IconXiaoHongShu from '~icons/my-icons/xiaohongshu'
+import IconMail from '~icons/material-symbols/mail'
+import IconTwitter from '~icons/ri/twitter-fill'
 import IconGithub from '~icons/simple-icons/github'
-import IconWechat from '~icons/simple-icons/wechat'
 import IconX from '~icons/tabler/x'
 
 const ResultScreen = () => {
@@ -249,42 +247,20 @@ const ResultScreen = () => {
                     <IexportWords fontSize={18} className="cursor-pointer text-gray-500" onClick={exportWords}></IexportWords>
                   </>
                 )}
-                <IconXiaoHongShu
-                  fontSize={15}
-                  className="cursor-pointer text-gray-500 hover:text-red-500 focus:outline-none"
-                  onClick={(e) => {
-                    handleOpenInfoPanel('redBook')
-                    e.currentTarget.blur()
-                  }}
-                />
 
-                <button
-                  onClick={(e) => {
-                    handleOpenInfoPanel('donate')
-                    e.currentTarget.blur()
-                  }}
-                  className="cursor-pointer"
-                  type="button"
-                  title="捐赠我们的项目"
-                >
-                  <IconCoffee fontSize={17} className={`text-gray-500 hover:text-amber-500  focus:outline-none ${styles.imgShake}`} />
-                </button>
+                <div className="mt-4 flex items-center justify-center gap-2.5">
+                  <a href="https://github.com/kuhung/qwerty-learner" target="_blank" rel="noreferrer">
+                    <IconGithub fontSize={16} className="text-gray-500 hover:text-gray-800 focus:outline-none" />
+                  </a>
 
-                <button
-                  onClick={(e) => {
-                    handleOpenInfoPanel('community')
-                    e.currentTarget.blur()
-                  }}
-                  className="cursor-pointer text-gray-500 dark:text-gray-400"
-                  type="button"
-                  title="加入我们的社区"
-                >
-                  <IconWechat fontSize={16} className="text-gray-500 hover:text-green-500 focus:outline-none" />
-                </button>
+                  <a href="https://twitter.com/kuhungio" target="_blank" rel="noreferrer">
+                    <IconTwitter fontSize={16} className="text-gray-500 hover:text-[#1DA1F2] focus:outline-none" />
+                  </a>
 
-                <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" className="leading-[0px]">
-                  <IconGithub fontSize={16} className="text-gray-500 hover:text-green-800 focus:outline-none" />
-                </a>
+                  <a href="mailto:kuhung@foxmail.com" target="_blank" rel="noreferrer">
+                    <IconMail fontSize={16} className="text-gray-500 hover:text-indigo-400 focus:outline-none" />
+                  </a>
+                </div>
               </div>
             </div>
             <div className="mt-10 flex w-full justify-center gap-5 px-5 text-xl">
